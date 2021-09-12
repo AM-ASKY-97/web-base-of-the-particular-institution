@@ -48,52 +48,28 @@
                         </div>
 
                         <div class="btn">
-                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
                         </div>
 
                         <div class="btn">
-                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <a href="#" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
                         </div>
 
                         <div class="btn">
-                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <a href="#" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
                         </div>
                     </nav>
             </div>
             <div class="col-md-10 ma">
-                <div class="row">
-                    <div class="col-md-6 d-flex justify-content-center">
-                    <div class="card" style="width: 32rem;">
-                            <div class="card-header">
-                                Student 
-                            </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">
-                                    06
-                                </li>
-                                <li class="list-group-item">A second item</li>
-                            </ul>
-                    </div>
-                    </div>
 
+            <iframe src="" frameborder="0" name="targ" width="100%" height="500px"></iframe>
+                
                     
-                    <div class="col-md-6 d-flex justify-content-center">
-                    <div class="card" style="width: 32rem;">
-                            <div class="card-header">
-                                Student 
-                            </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">An item</li>
-                                <li class="list-group-item">A second item</li>
-                            </ul>
-                    </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+              
+             </div>
 
         <div class="row text-center">
-            <div class="col-md bg bg-primary  text-white">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
+            <div class="col-12-md bg bg-primary  text-white">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
         </div>
     </div>
 </div>
