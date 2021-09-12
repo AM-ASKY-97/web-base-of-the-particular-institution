@@ -36,6 +36,11 @@ body{
     background-color:#151515;
 }
 
+#btn
+{
+    width: 100%;
+}
+
 #btn .fas
 {
     width: 35px;
