@@ -76,7 +76,7 @@
         </div>
 
         <div class="row text-center">
-            <div class="col-md bg bg-primary">fooder</div>
+            <div class="col-md bg bg-primary">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
         </div>
     </div>
 </div>
