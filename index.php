@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boostrab Web Page</title>
 
+    <script src="https://kit.fontawesome.com/2759fd8f76.js" crossorigin="anonymous"></script>
     <!--Boostrab Css-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 
@@ -40,10 +41,26 @@
         </div>
 
         <div class="row ">
-            <div class="col-md-3 ma">
-                <a href="https://drive.google.com/u/0/uc?id=1kgrVk3j6FqHfMzxmGxq342OnIKLleaNv&export=download" download>download</a>
+            <div class="col-md-2 ma">
+                <nav>
+                    <div class="btn">
+                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        </div>
+
+                        <div class="btn">
+                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        </div>
+
+                        <div class="btn">
+                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        </div>
+
+                        <div class="btn">
+                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        </div>
+                    </nav>
             </div>
-            <div class="col-md-9 ma">
+            <div class="col-md-10 ma">
                 <div class="row">
                     <div class="col-md-6 d-flex justify-content-center">
                     <div class="card" style="width: 32rem;">
@@ -76,7 +93,7 @@
         </div>
 
         <div class="row text-center">
-            <div class="col-md bg bg-primary">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
+            <div class="col-md bg bg-primary  text-white">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
         </div>
     </div>
 </div>

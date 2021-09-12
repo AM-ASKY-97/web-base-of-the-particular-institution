@@ -16,6 +16,49 @@ body{
     
 }
 
+.btn #btn span
+{
+    padding-left: 2px;
+    color: #b1b5b8;
+    font-size: 15px;
+}
+
+#btn .fa
+{
+    width: 35px;
+    height: 35px;
+    font-size: 15px;
+    margin-left: 15px;
+    border-radius: 25%;
+    padding-left: 9px;
+    color: #474747;
+    padding-top: 10px;
+    background-color:#151515;
+}
+
+#btn .fas
+{
+    width: 35px;
+    height: 35px;
+    font-size: 15px;
+    margin-left: 15px;
+    border-radius: 25%;
+    padding-left: 12px;
+    color: #474747;
+    padding-top: 10px;
+    background-color:#151515;
+}
+
+#btn span
+{
+    margin-left: 15px;
+}
+
+.li
+{
+    list-style-type: none;
+}
+
 .img
 {
     margin-top: "50px";
