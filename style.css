@@ -1,0 +1,66 @@
+body{
+    background-color: #6a46bc;
+}
+
+.p
+{
+    background-color: #6a46bc;
+    border: 1px solid white;
+    color: white;
+}
+
+.ini
+{
+    height: 50px;
+    background-color: #dcd4ee;
+    
+}
+
+.img
+{
+    margin-top: "50px";
+}
+
+.uli
+{
+    list-style-type: none;
+    float: left;
+}
+
+.main
+{
+    background-color: #c2b0e9;
+    height: px;
+    border: 1px solid white;
+}
+
+.grid-layouts
+{
+    border: 1px solid red;
+    margin-top: 10px;
+}
+
+.bg
+{
+    background-color: #dcd4ee;
+    padding:10px;
+    border: 1px solid white;
+}
+
+
+.ma
+{
+    background-color: #dcd4ee;
+    padding:10px;
+    height: 300px;
+    border: 1px solid white;
+    
+}
+
+.mmm
+{
+    margin: auto;
+    align-content: center;
+    align-items: center;
+}
+
