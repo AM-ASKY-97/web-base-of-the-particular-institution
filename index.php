@@ -18,14 +18,14 @@
     
         <div class="container">
         <div class="row text-center ">
-            <div class="col-md-2 bg">
+            <div class="col-md-2 bg bg-primary ">
                 <img src="img.png" alt="" widt="130px" height="130px">
             </div>
-            <div class="col-md-8 bg text-white">
+            <div class="col-md-8 bg bg-primary text-white">
                 <div><h1>Hardy College of Technology</h1></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="80px" height="80px" class="img"></div>       
             </div>
-            <div class="col-md-2 bg">
+            <div class="col-md-2 bg bg-primary">
                 <img src="images 1.png" alt="" widt="130px" height="130px">
             </div>
         </div>
@@ -76,7 +76,7 @@
         </div>
 
         <div class="row text-center">
-            <div class="col-md bg ">fooder</div>
+            <div class="col-md bg bg-primary">fooder</div>
         </div>
     </div>
 </div>
