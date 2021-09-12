@@ -52,11 +52,11 @@
                         </div>
 
                         <div class="btn">
-                        <a href="#" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
                         </div>
 
                         <div class="btn">
-                        <a href="#" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
                         </div>
                     </nav>
             </div>
