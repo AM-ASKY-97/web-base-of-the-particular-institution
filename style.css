@@ -12,6 +12,11 @@ body
     border: 1px solid white;
 }
 
+.p10
+{
+    padding: 10px;
+}
+
 .btn
 {
     width: 105%;
@@ -41,7 +46,12 @@ body
     background-color:#151515;
 }
 
+.btn .fa-user-graduate
+{
+    padding-left: 9px;
+}
+
 .hei
 {
-    height: 550px;
+    height: 530px;
 }

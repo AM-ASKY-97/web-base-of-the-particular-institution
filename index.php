@@ -21,15 +21,15 @@ include 'ajax.php';
 
 <div class="container-fulid">
         <div class="row text-center ">
-            <div class="col-md-2 bg bg-primary">
-                <img src="img.png" alt="" widt="130px" height="130px">
+            <div class="col-md-2 bg bg-primary ">
+                <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-md-8 bg bg-primary text-white">
                 <div><h1>Hardy College of Technology</h1></div>    
-                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="80px" height="80px" class="img"></div>       
+                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" class="img"></div>       
             </div>
             <div class="col-md-2 bg bg-primary">
-                <img src="images 1.png" alt="" widt="130px" height="130px">
+                <img src="images 1.png" alt="" widt="120px" height="120px">
             </div>
         </div>
         </div>
@@ -37,7 +37,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col bg-light">
+        <div class="col bg-secondary text-white">
             <marquee behavior="" direction="">Online registration System</marquee>
         </div>
     </div>
@@ -59,15 +59,73 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-user-graduate"></i><span>Students</span></button>
+                <button class="btn"><i class="fas fa-user-graduate "></i><span>View Students</span></button>
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>New Student</span></button>
+                <button class="btn"><i class="fas fa-user-edit"></i><span>New Student</span></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-book"></i><span>Notes</span></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
             </div>
         </div>
-        <div class="col-10"></div>
+
+        <!-- Right Area-->
+
+        <div class="col-md-10 bg-light">
+       
+
+            <!-- Row -->
+            <div class="row">
+                <!--student col-->
+                <div class="col p10">
+                    <!-- student cart-->
+                    <div class="card" style="width: 28rem;">
+                        <div class="card-header">
+                            Featured
+                        </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                            </ul>
+                    </div>
+                    <!-- End student cart-->
+                </div>
+                <!--end col-->
+
+                <!--Lacutre col-->
+                <div class="col p10">
+                    <!-- student cart-->
+                    <div class="card" style="width: 28rem;">
+                        <div class="card-header">
+                            Featured
+                        </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                            </ul>
+                    </div>
+                    <!-- End luctre cart-->
+                </div>
+                <!--end luctre col-->
+            </div>
+            <!-- End Row -->
+        </div>
+        <!-- End Right Area -->
     </div>
+
+    <!-- Footer -->
+    <div class="row text-center">
+                <div class="col-md bg-primary">
+                    <h5>Am. Asky</h5>
+                </div>
+            </div>
+        <!-- End Footer -->
 </div>
     
     
