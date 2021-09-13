@@ -19,7 +19,7 @@
     
         <div class="container-fulid">
         <div class="row text-center ">
-            <div class="col-md-2 bg bg-primary ">
+            <div class="col-md-2 bg bg-primary">
                 <img src="img.png" alt="" widt="130px" height="130px">
             </div>
             <div class="col-md-8 bg bg-primary text-white">
