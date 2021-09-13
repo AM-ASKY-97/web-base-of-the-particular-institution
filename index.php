@@ -20,19 +20,29 @@ include 'ajax.php';
 ?>
 
 <div class="container-fulid">
+
+        
         <div class="row text-center ">
             <div class="col-md-2 bg bg-primary ">
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-md-8 bg bg-primary text-white">
                 <div><h1>Hardy College of Technology</h1></div>    
-                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" class="img"></div>       
+                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
+            
             <div class="col-md-2 bg bg-primary">
-                <img src="images 1.png" alt="" widt="120px" height="120px">
+                <nav class="navbar navbar-light fla" >
+                    <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-tagert="mynav">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </nav>
+                <img src="images 1.png" alt="" widt="120px" height="120px" class="img">
+                
             </div>
         </div>
         </div>
+        
 </div>
 
 <div class="container-fulid">
@@ -83,32 +93,32 @@ include 'ajax.php';
             <!-- Row -->
             <div class="row">
                 <!--student col-->
-                <div class="col p10">
+                <div class="col-md p10">
                     <!-- student cart-->
-                    <div class="card" style="width: 28rem;">
-                        <div class="card-header">
-                            Featured
-                        </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                            </ul>
+                    <div class="card">
+                    <div class="card-header">
+                        Featured
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    </div>
                     </div>
                     <!-- End student cart-->
                 </div>
                 <!--end col-->
-
+            
                 <!--Lacutre col-->
-                <div class="col p10">
+                <div class="col-md p10">
                     <!-- student cart-->
-                    <div class="card" style="width: 28rem;">
-                        <div class="card-header">
-                            Featured
-                        </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                            </ul>
+                    <div class="card">
+                    <div class="card-header">
+                        Featured
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    </div>
                     </div>
                     <!-- End luctre cart-->
                 </div>

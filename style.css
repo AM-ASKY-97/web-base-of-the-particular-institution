@@ -17,9 +17,18 @@ body
     padding: 10px;
 }
 
+.fla
+{
+    float: right;
+}
+
+.img
+{
+    padding-left: 50px;
+}
 .btn
 {
-    width: 105%;
+    width: 100%;
     text-align: left;
     color: white;
 }
