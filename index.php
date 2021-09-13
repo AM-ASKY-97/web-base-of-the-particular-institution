@@ -62,7 +62,7 @@
             </div>
             <div class="col-md-10 ma">
 
-            <iframe src="" frameborder="0" name="targ" width="80%" height="250px" scrolling="no"></iframe>
+            <iframe src="" frameborder="0" name="targ" width="100%" height="100%" scrolling="auto"></iframe>
                 
                     
               
