@@ -45,7 +45,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col-md-2 bg-dark">
+        <div class="col-md-2 hei bg-dark">
             <div>
                 <button class="btn"></button>
             </div>

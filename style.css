@@ -7,6 +7,11 @@ body
     background-color: #6a46bc;
 }
 
+.bg
+{
+    border: 1px solid white;
+}
+
 .btn
 {
     width: 105%;
@@ -36,7 +41,7 @@ body
     background-color:#151515;
 }
 
-.col-2
+.hei
 {
     height: 550px;
 }
