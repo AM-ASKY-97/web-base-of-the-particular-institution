@@ -1,4 +1,7 @@
-body
-{
-    background-color: #6a46bc;
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 400px;
 }
