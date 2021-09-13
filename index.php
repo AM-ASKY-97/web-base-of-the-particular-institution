@@ -55,15 +55,15 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+                <button class="btn"><i class="fas fa-graduation-cap"></i><span>Lectures</span></button>
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+                <button class="btn"><i class="fas fa-user-graduate"></i><span>Students</span></button>
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>New Student</span></button>
             </div>
         </div>
         <div class="col-10"></div>
