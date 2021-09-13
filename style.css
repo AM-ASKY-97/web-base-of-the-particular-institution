@@ -1,120 +1,42 @@
-body{
+*
+{
+    box-sizing: border-box;
+}
+body
+{
     background-color: #6a46bc;
 }
 
-.p
+.btn
 {
-    background-color: #6a46bc;
-    border: 1px solid white;
+    width: 105%;
+    text-align: left;
     color: white;
 }
 
-.p50
+.btn:hover
 {
-    margin-top: 50px;
+    background-color: gray;
 }
 
-.ini
+.btn span
 {
-    height: 50px;
-    background-color: #dcd4ee;
-    text-align: center;
-    padding-top: 10px;
-    
+    margin-left: 15px;
 }
 
-.btn #btn span
-{
-    padding-left: 2px;
-    color: #b1b5b8;
-    font-size: 15px;
-}
-
-#btn .fa
+.btn .fas
 {
     width: 35px;
     height: 35px;
-    font-size: 15px;
-    margin-left: 15px;
+    font-size: 20px;
     border-radius: 25%;
-    padding-left: 9px;
+    padding-top: 7px;
+    padding-left: 7px;
     color: #474747;
-    padding-top: 10px;
     background-color:#151515;
 }
 
-#btn
+.col-2
 {
-    width: 100%;
+    height: 550px;
 }
-
-#btn .fas
-{
-    width: 35px;
-    height: 35px;
-    font-size: 15px;
-    margin-left: 15px;
-    border-radius: 25%;
-    padding-left: 12px;
-    color: #474747;
-    padding-top: 10px;
-    background-color:#151515;
-}
-
-#btn span
-{
-    margin-left: 15px;
-}
-
-.li
-{
-    list-style-type: none;
-}
-
-.img
-{
-    margin-top: "50px";
-}
-
-.uli
-{
-    list-style-type: none;
-    float: left;
-}
-
-.main
-{
-    background-color: #c2b0e9;
-    height: px;
-    border: 1px solid white;
-}
-
-.grid-layouts
-{
-    border: 1px solid red;
-    margin-top: 10px;
-}
-
-.bg
-{
-    background-color: #dcd4ee;
-    padding:10px;
-    border: 1px solid white;
-}
-
-
-.ma
-{
-    background-color: #dcd4ee;
-    padding:10px;
-    border: 1px solid white;
-    height: 450px;
-}
-
-.mmm
-{
-    margin: auto;
-    align-content: center;
-    align-items: center;
-}
-

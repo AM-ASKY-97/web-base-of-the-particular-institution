@@ -18,10 +18,8 @@
 <?php
 include 'ajax.php';
 ?>
-    
+
 <div class="container-fulid">
-    
-        <div class="container-fulid">
         <div class="row text-center ">
             <div class="col-md-2 bg bg-primary">
                 <img src="img.png" alt="" widt="130px" height="130px">
@@ -35,62 +33,44 @@ include 'ajax.php';
             </div>
         </div>
         </div>
-    
-
-    <div class="container-fulid main">
-        <div class="row">
-            <div class="col text-center">
-            <marquee>online student registration</marquee>
-            </div>
-        </div>
-
-        <div class="row ">
-            <div class="col-md-2 ma">
-                <nav>
-                    <div class="btn">
-                        <button id="btn" onclick="loadfiles('Lacthers','loadArea')"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button>
-                        </div>
-
-                        <div class="btn">
-                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
-                        </div>
-
-                        <div class="btn">
-                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
-                        </div>
-
-                        <div class="btn">
-                        <a href="#" target=""><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
-                        </div>
-                    </nav>
-            </div>
-            <div class="col-md-10 ma" id="loadArea">
-
-            <div class="row">
-                <div class="col">
-                <div class="card" style="width: 18rem;">
-  <div class="card-header">
-    Featured
-  </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">Cras justo odio</li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
-  </ul>
 </div>
-                </div>
-            </div>
-                
-                    
-              
-             </div>
 
-        <div class="row text-center">
-            <div class="col-2 bg-light"></div>
-            <div class="col-10-md bg bg-primary  text-white ">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
+<div class="container-fulid">
+    <div class="row">
+        <div class="col bg-light">
+            <marquee behavior="" direction="">Online registration System</marquee>
         </div>
     </div>
 </div>
+
+<div class="container-fulid">
+    <div class="row">
+        <div class="col-2 bg-dark">
+            <div>
+                <button class="btn"></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+            </div>
+
+            <div>
+                <button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
+            </div>
+        </div>
+        <div class="col-10"></div>
+    </div>
+</div>
+    
+    
 
 
     <!--Boostrab Js-->
