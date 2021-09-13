@@ -35,7 +35,7 @@
 
     <div class="container-fulid main">
         <div class="row">
-            <div class="col ini">
+            <div class="col text-center">
             <marquee>online student registration</marquee>
             </div>
         </div>
@@ -62,7 +62,7 @@
             </div>
             <div class="col-md-10 ma">
 
-            <iframe src="" frameborder="0" name="targ" width="100%" height="500px"></iframe>
+            <iframe src="" frameborder="0" name="targ" width="80%" height="250px" scrolling="no"></iframe>
                 
                     
               

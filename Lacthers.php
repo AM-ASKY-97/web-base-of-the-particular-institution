@@ -6,61 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lacture information</title>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
     <link rel="stylesheet" href="Lacthers.css">
 </head>
 <body>
-
-    <div class="table">
-        <table class="tab" border=1px>
-
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name of the Lacture</th>
-                <th>Subject / Module</th>
-                <th>Contact No</th>
-                <th>Photo</th>
-            </tr>
-        </thead>
-          
-        <tbody>
-             <tr>
-                <td rowspan=2>AJMH</td>
-                <td rowspan=2>Mr. A.J.M. Hasmy</td>
-                <td >Web Programming (SW)</td>
-                <td rowspan=2 id="con">0760124084</td>
-                <td rowspan=2><img src="IMG-1054.JPG" alt=""></td>
-            </tr>
-
-            <tr>
-                <td>Local Area Network (LAN)</td>
-            </tr>
-
-            <tr>
-                <td>SR</td>
-                <td>Mr. S. Risath</td>
-                <td>Software Testing (ST)</td>
-                <td id="con">0760123222</td>
-                <td><img src="IMG-1054.JPG" alt=""></td>
-            </tr>
-
-
-            <tr>
-                <td rowspan=2>MIII</td>
-                <td rowspan=2>Mr. M.I. Imran Ifham</td>
-                <td >Database System- II (DBS II)</td>
-                <td rowspan=2 id="con">0771117818</td>
-                <td rowspan=2><img src="IMG-1054.JPG" alt=""></td>
-            </tr>
-
-            <tr>
-                <td>Planning and Scheduling working Place (PSW)</td>
-            </tr>  
-        </tbody>
-
-                      
-        </table>
+  <div class="row">
+    <div class="col">
+    <div class="card">
+  <h5 class="card-header">Featured</h5>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
     </div>
-    
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 </body>
 </html>
