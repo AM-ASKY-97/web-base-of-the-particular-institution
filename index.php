@@ -15,9 +15,9 @@
 </head>
 <body>
     
-<div class="container">
+<div class="container-fulid">
     
-        <div class="container">
+        <div class="container-fulid">
         <div class="row text-center ">
             <div class="col-md-2 bg bg-primary ">
                 <img src="img.png" alt="" widt="130px" height="130px">
@@ -33,7 +33,7 @@
         </div>
     
 
-    <div class="container main">
+    <div class="container-fulid main">
         <div class="row">
             <div class="col ini">
             <marquee>online student registration</marquee>
