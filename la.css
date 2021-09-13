@@ -2,6 +2,17 @@
     box-sizing: border-box;
 }
 
-body{
-    height: 200px;
+.div
+{
+    padding-top: 10px;
 }
+
+.con
+{
+    height: 20px;
+}
+
+body{
+    background-color: #6a46bc;
+}
+

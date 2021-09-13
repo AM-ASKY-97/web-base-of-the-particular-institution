@@ -86,7 +86,8 @@ include 'ajax.php';
              </div>
 
         <div class="row text-center">
-            <div class="col-12-md bg bg-primary  text-white">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
+            <div class="col-2 bg-light"></div>
+            <div class="col-10-md bg bg-primary  text-white ">Copyright 2021 HARDY. All right reserved. | Designed By:ICT student (Founder: A.M. Asky)</div>
         </div>
     </div>
 </div>

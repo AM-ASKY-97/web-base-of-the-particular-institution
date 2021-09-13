@@ -11,31 +11,17 @@
     <link rel="stylesheet" href="la.css">
 </head>
 <body>
+  <?php
+    include 'ajax.php';
+  ?>
+
   <div class="row">
-    <div class="col-md-6">
-    <div class="card">
-  <h5 class="card-header">Featured</h5>
-  <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
-
-    <div class="col-md-6">
-    <div class="card">
-  <h5 class="card-header">Featured</h5>
-  <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
-  </div>
+    <div class="col-2"><button onclick="loadfiles('inse','workArea')">Click Me</button></div>
 
 
+    <div class="col-10" id="workArea">Work Area</div>
+  </div>
+  
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 </body>
 </html>
