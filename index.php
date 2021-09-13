@@ -14,6 +14,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+<?php
+include 'ajax.php';
+?>
     
 <div class="container-fulid">
     
@@ -44,7 +48,7 @@
             <div class="col-md-2 ma">
                 <nav>
                     <div class="btn">
-                        <a href="Lacthers.php" target="targ"><button id="btn" onclick="das()"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button></a>
+                        <button id="btn" onclick="loadfiles('Lacthers','loadArea')"><i class="fa fa-tachometer" aria-hidden="true" ></i><span>Dashbord</span></button>
                         </div>
 
                         <div class="btn">
@@ -60,9 +64,22 @@
                         </div>
                     </nav>
             </div>
-            <div class="col-md-10 ma">
+            <div class="col-md-10 ma" id="loadArea">
 
-            <iframe src="" frameborder="0" name="targ" width="100%" height="100%" scrolling="auto"></iframe>
+            <div class="row">
+                <div class="col">
+                <div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Featured
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Cras justo odio</li>
+    <li class="list-group-item">Dapibus ac facilisis in</li>
+    <li class="list-group-item">Vestibulum at eros</li>
+  </ul>
+</div>
+                </div>
+            </div>
                 
                     
               

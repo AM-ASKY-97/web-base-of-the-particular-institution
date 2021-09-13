@@ -8,11 +8,11 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="Lacthers.css">
+    <link rel="stylesheet" href="la.css">
 </head>
 <body>
   <div class="row">
-    <div class="col-md-6 m-50">
+    <div class="col-md-6">
     <div class="card">
   <h5 class="card-header">Featured</h5>
   <div class="card-body">
@@ -23,7 +23,7 @@
 </div>
     </div>
 
-    <div class="col-md-6 mx-50">
+    <div class="col-md-6">
     <div class="card">
   <h5 class="card-header">Featured</h5>
   <div class="card-body">
