@@ -112,9 +112,14 @@
                   <label class="form-label" for="form3Example97">Email ID</label>
                 </div>
 
-                <div class="d-flex justify-content-end pt-3">
-                  <button type="button" class="btn btn-light bg-danger btn-lg"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
-                  <button type="button" class="btn  btn-lg ms-2 bg-success"><i class="fa fa-check-circle" aria-hidden="true"></i><span>Submit form</span></button>
+                <div class="row">
+                    <div class="col">
+                    <button type="button" class="btn btn-light bg-danger btn-lg"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
+                    </div>
+
+                    <div class="col">
+                    <button type="button" class="btn  btn-lg ms-2 bg-success"><i class="fa fa-check-circle" aria-hidden="true"></i><span>Submit form</span></button>
+                    </div>
                 </div>
 
               </div>
