@@ -27,7 +27,7 @@ include 'ajax.php';
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-xl-8 bg bg-primary text-white">
-                <div><h3>Hardy College of Technology - ICT Department</h3></div>    
+                <div><h3>Hardy College of Technology - <span class="element"></span></h3></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
             
@@ -176,7 +176,22 @@ include 'ajax.php';
     
 </div>
 
+<script>
+
+// Can also be included with a regular script tag
+import Typed from 'typed.js';
+
+var options = {
+  strings: ['am.asky'],
+  typeSpeed: 40
+};
+
+var typed = new Typed('.element', options);
+
+</script>
+
     <!--Boostrab Js-->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
