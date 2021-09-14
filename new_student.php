@@ -33,6 +33,10 @@
             <div class="col-xl-6">
               <div class="card-body p-md-5 text-black">
                 
+                <div class="form-outline mb-4">
+                  <input type="text-" id="form3Example8" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example8">Registration no</label>
+                </div>
 
                 <div class="row">
                   <div class="col-md-6 mb-4">
@@ -50,28 +54,17 @@
                 </div>
 
                 <div class="row">
-                  <div class="col-md-6 mb-4">
-                    <div class="form-outline">
-                      <input type="text" id="form3Example1m1" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1m1">Mother's name</label>
-                    </div>
-                  </div>
-                  <div class="col-md-6 mb-4">
-                    <div class="form-outline">
-                      <input type="text" id="form3Example1n1" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1n1">Father's name</label>
-                    </div>
-                  </div>
+                    <div class="col-6">
+                    <div class="form-outline mb-4">
+                    <textarea id="w3review" name="w3review" rows="4" cols="35"></textarea>
+                    <label class="form-label" for="form3Example8">Address</label>
                 </div>
-
-                <div class="form-outline mb-4">
-                  <input type="text-" id="form3Example8" class="form-control form-control-lg" />
-                  <label class="form-label" for="form3Example8">Address</label>
+                    </div>
                 </div>
 
                 <div class="d-md-flex justify-content-start align-items-center mb-4 py-2">
 
-                  <h6 class="mb-0 me-4">Gender: </h6>
+                  <h6 class="mb-0 me-4" id="gen"><span>Gender :</span> </h6>
 
                   <div class="form-check form-check-inline mb-0 me-4">
                     <input
@@ -103,22 +96,17 @@
                 </div>
 
                 <div class="form-outline mb-4">
-                  <input type="text" id="form3Example99" class="form-control form-control-lg" />
-                  <label class="form-label" for="form3Example99">Course</label>
-                </div>
-
-                <div class="form-outline mb-4">
                   <input type="text" id="form3Example97" class="form-control form-control-lg" />
                   <label class="form-label" for="form3Example97">Email ID</label>
                 </div>
 
-                <div class="row">
-                    <div class="col">
-                    <button type="button" class="btn btn-light bg-danger btn-lg"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
+                <div class="row ">
+                    <div class="col-md-6 p10">
+                    <button type="button" class="btn btn-success text-center"><i class="fa fa-check-circle" aria-hidden="true"></i><span>Submit</span></button>
                     </div>
 
-                    <div class="col">
-                    <button type="button" class="btn  btn-lg ms-2 bg-success"><i class="fa fa-check-circle" aria-hidden="true"></i><span>Submit form</span></button>
+                    <div class="col-md-6 p10">
+                    <button type="button" class="btn btn-danger text-center"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
                     </div>
                 </div>
 
