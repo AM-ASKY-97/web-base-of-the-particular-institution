@@ -19,7 +19,7 @@
 
         if (fileName ==  "Lectures")
         {
-            swal("Good job!", "You clicked the button!", "success")
+            
         }
 
         if (fileName ==  "New student")
