@@ -62,11 +62,11 @@ include 'ajax.php';
             </div>
 
             <div>
-                <a href="#" class="js-scroll-trigger"><button class="btn"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button></a>
+                <button class="btn" onclick="loadfiles('Dashbord','loadArea')"><i class="fas fa-tachometer-alt"></i><span>Dashbord</span></button>
             </div>
 
             <div>
-                <button class="btn js-scroll-trigger" onclick="loadfiles('Lectures','loadArea')"><i class="fas fa-graduation-cap"></i><span>Lectures</span></button>
+                <button class="btn" onclick="loadfiles('Lectures', 'loadArea')"><i class="fas fa-graduation-cap"></i><span>Lectures</span></button>
             </div>
 
             <div>
@@ -143,17 +143,11 @@ include 'ajax.php';
     
 </div>
 
-<script>
-    $('.js-scroll-trigger').click(function(){
 
-        $('.navbar-collapse').collapse('hide');
-    });
-</script>
-    
-    
 
 
     <!--Boostrab Js-->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>

@@ -17,9 +17,9 @@
             window.location.href="index.php";
         }
 
-        if (fileName ==  "View student")
+        if (fileName ==  "Lectures")
         {
-            window.location.href="index.php";
+            swal("Good job!", "You clicked the button!", "success")
         }
 
         if (fileName ==  "New student")
