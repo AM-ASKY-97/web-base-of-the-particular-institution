@@ -4,7 +4,7 @@
         var request=new XMLHttpRequest();
         request.onreadystatechange = function (){
             if (this.readyState == 4 && this.status == 200){
-               document.getElementById('loadArea').innerHTML=this.responseText; 
+               document.getElementById(loadArea).innerHTML=this.responseText; 
             } 
         
         };
@@ -12,14 +12,14 @@
         request.send();
 
 
-        if (fileName ==  "Lacthers")
+        if (fileName ==  "Dashbord")
         {
-            document.getElementById('h1').innerHTML="Lacthers";
+            window.location.href="index.php";
         }
 
         if (fileName ==  "View student")
         {
-            document.getElementById('h1').innerHTML="View student";
+            window.location.href="index.php";
         }
 
         if (fileName ==  "New student")
