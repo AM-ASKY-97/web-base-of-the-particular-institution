@@ -23,16 +23,16 @@ include 'ajax.php';
 
         
         <div class="row text-center ">
-            <div class="col-md-2 bg bg-primary ">
+            <div class="col-xl-2 bg bg-primary ">
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
-            <div class="col-md-8 bg bg-primary text-white">
+            <div class="col-xl-8 bg bg-primary text-white">
                 <div><h1>Hardy College of Technology</h1></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
             
-            <div class="col-md-2 bg bg-primary">
-            <nav class="navbar-expand-lg navbar-light bg-light">
+            <div class="col-xl-2 bg bg-primary">
+            <nav class="navbar-expand-xl navbar-light bg-light ">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" >
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -55,7 +55,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col-md-2  bg-dark d-md-block collapse" id="navbarSupportedContent">
+        <div class="col-xl-2  bg-dark d-xl-block collapse" id="navbarSupportedContent">
             <div>
             <div>
                 <button class="btn"></button>
@@ -89,7 +89,7 @@ include 'ajax.php';
 
         <!-- Right Area-->
 
-        <div class="col-md-10 bg-light">
+        <div class="col-xl-10 bg-light">
        
 
             <!-- Row -->
@@ -111,7 +111,7 @@ include 'ajax.php';
                 <!--end col-->
             
                 <!--Lacutre col-->
-                <div class="col-md p10">
+                <div class="col-xl p10">
                     <!-- student cart-->
                     <div class="card">
                     <div class="card-header">
@@ -133,7 +133,7 @@ include 'ajax.php';
 
     <!-- Footer -->
     <div class="row text-center">
-                <div class="col-md bg-primary">
+                <div class="col-xl bg-primary">
                     <h5>Am. Asky</h5>
                 </div>
             </div>
