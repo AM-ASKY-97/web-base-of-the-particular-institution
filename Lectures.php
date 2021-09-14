@@ -14,13 +14,13 @@
 <div class="row">
     <div class="col p10">
     <div class="card">
-    <h5 class="card-header">Featured</h5>
+    <h3 class="card-header mb-5 text-uppercase ">Lectures information</h3>
     <div class="card-body">
        
     <div class="table-responsive">
     <table class="table table-bordered col-xl">
-  <thead>
-    <tr>
+    <thead>
+    <tr class="text-center">
       <th scope="col">#</th>
       <th scope="col">Name of the lacture</th>
       <th scope="col">Subject</th>
@@ -34,7 +34,7 @@
       <td rowspan=2>Mr. A.J.M. Hasmy</td>
       <td>Web Programming (SW)</td>
       <td rowspan=2>0760124084</td>
-      <td rowspan=2><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td  rowspan=2 class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
       <td>Local Area Network (LAN)</td>
@@ -45,7 +45,7 @@
       <td>Mr. S. Risath</td>
       <td>Software Testing (ST)</td>
       <td id="con">0760123222</td>
-      <td><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
    
     <tr>
@@ -53,7 +53,7 @@
       <td rowspan=2>Mr. M.I. Imran Ifham</td>
       <td >Database System- II (DBS II)</td>
       <td rowspan=2 id="con">0771117818</td>
-      <td rowspan=2><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td  rowspan=2 class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
       <td>Planning and Scheduling working Place (PSW)</td>

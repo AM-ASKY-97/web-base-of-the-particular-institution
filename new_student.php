@@ -13,7 +13,7 @@
 
 <div class="card p10">
   <div class="card-header">
-    <h3 class="mb-5 text-uppercase text-center">Student registration form</h3>
+    <h3 class="mb-5 text-uppercase  d-md-text-center">Student registration form</h3>
   </div>
   <div class="card-body">
   <section class="">
@@ -53,13 +53,9 @@
                   </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-6">
-                    <div class="form-outline mb-4">
-                    <textarea id="w3review" name="w3review" rows="4" cols="35"></textarea>
-                    <label class="form-label" for="form3Example8">Address</label>
-                </div>
-                    </div>
+                <div class="form-outline mb-4">
+                  <input type="text-" id="form3Example8" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example8">Address</label>
                 </div>
 
                 <div class="d-md-flex justify-content-start align-items-center mb-4 py-2">
@@ -100,13 +96,18 @@
                   <label class="form-label" for="form3Example97">Email ID</label>
                 </div>
 
+                <div class="form-outline mb-4">
+                  <input type="text" id="form3Example97" class="form-control form-control-lg" />
+                  <label class="form-label" for="form3Example97">Phone no</label>
+                </div>
+
                 <div class="row ">
                     <div class="col-md-6 p10">
                     <button type="button" class="btn btn-success text-center"><i class="fa fa-check-circle" aria-hidden="true"></i><span>Submit</span></button>
                     </div>
 
                     <div class="col-md-6 p10">
-                    <button type="button" class="btn btn-danger text-center"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
+                    <button type="reset" class="btn btn-danger text-center"><i class="fa fa-ban" aria-hidden="true"></i><span>Reset all</span></button>
                     </div>
                 </div>
 

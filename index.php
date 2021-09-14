@@ -27,7 +27,7 @@ include 'ajax.php';
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-xl-8 bg bg-primary text-white">
-                <div><h1>Hardy College of Technology</h1></div>    
+                <div><h3>Hardy College of Technology - ICT Department</h3></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
             
@@ -57,8 +57,8 @@ include 'ajax.php';
     <div class="row">
         <div class="col-xl-2  bg-dark d-xl-block collapse" id="navbarSupportedContent">
             
-            <div>
-                <button class="btn"></button>
+            <div class="btn">
+                
             </div>
 
             <div>
@@ -70,7 +70,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-user-graduate "></i><span>View Students</span></button>
+                <button class="btn" onclick="loadfiles('View Students','loadArea')"><i class="fas fa-user-graduate "></i><span>View Students</span></button>
             </div>
 
             <div>
@@ -78,11 +78,11 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-book"></i><span>Notes</span></button>
+                <button class="btn" onclick="loadfiles('Notes','loadArea')"><i class="fas fa-book"></i><span>Notes</span></button>
             </div>
 
             <div>
-                <button class="btn disabled" ><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
+                <button class="btn" onclick="loadfiles('Pass Pepper','loadArea')"><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
             </div>
             
         </div>
@@ -95,15 +95,15 @@ include 'ajax.php';
             <!-- Row -->
             <div class="row">
                 <!--student col-->
-                <div class="col-xl-4 p10">
-                    <!-- student cart-->
-                    <div class="card m-auto">
+                <div class="col-xl-6 p10">
+                    <!-- student cart--> 
+                    <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
-                        Featured
+                        Lectures
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <h5 class="card-title">04</h5>
+                        <p class="card-text">All lectures</p>
                     </div>
                     </div>
                     <!-- End student cart-->
@@ -111,20 +111,53 @@ include 'ajax.php';
                 <!--end col-->
             
                 <!--Lacutre col-->
-                <div class="col-xl-4 p10">
+                <div class="col-xl-6 p10">
                     <!-- student cart-->
-                    <div class="card m-auto">
+                    <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
-                        Featured
+                        Student
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <h5 class="card-title">0</h5>
+                        <p class="card-text">All student</p>
                     </div>
                     </div>
                     <!-- End luctre cart-->
                 </div>
                 <!--end luctre col-->
+
+                 <!--1st semi-->
+                    <div class="col-xl-6 p10">
+                    <!-- student cart-->
+                    <div class="card m-auto" style="width: 30rem;">
+                    <div class="card-header">
+                        1st semester subject
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">7</h5>
+                        <p class="card-text">All subject</p>
+                    </div>
+                    </div>
+                    <!-- 1st semi cart-->
+                </div>
+                <!--1st semi col-->
+
+                 <!--1st semi-->
+                 <div class="col-xl-6 p10">
+                    <!-- student cart-->
+                    <div class="card m-auto" style="width: 30rem;">
+                    <div class="card-header">
+                        2nd semester subject
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">5</h5>
+                        <p class="card-text">All subject</p>
+                    </div>
+                    </div>
+                    <!-- 2nd semi cart-->
+                </div>
+                <!--2nd semi col-->
+                    
 
             </div>
             <!-- End Row -->
