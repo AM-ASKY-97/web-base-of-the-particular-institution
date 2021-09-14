@@ -55,7 +55,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col-xl-2  bg-dark d-xl-block collapse" id="navbarSupportedContent hei">
+        <div class="col-xl-2  bg-dark d-xl-block collapse" id="navbarSupportedContent">
             <div>
             <div>
                 <button class="btn"></button>
@@ -66,7 +66,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn"><i class="fas fa-graduation-cap"></i><span>Lectures</span></button>
+                <button class="btn" onclick="loadfiles('Lectures','loadArea')"><i class="fas fa-graduation-cap"></i><span>Lectures</span></button>
             </div>
 
             <div>
@@ -89,7 +89,7 @@ include 'ajax.php';
 
         <!-- Right Area-->
 
-        <div class="col-xl-10 bg-light">
+        <div class="col-xl-10 bg-light" id="loadArea">
        
 
             <!-- Row -->
@@ -126,117 +126,6 @@ include 'ajax.php';
                 </div>
                 <!--end luctre col-->
 
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
-
-                <div class="col-xl-4 p10">
-                      <!-- student cart-->
-                      <div class="card m-auto">
-                    <div class="card-header">
-                        Featured
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    </div>
-                    <!-- End luctre cart-->
-                </div>
             </div>
             <!-- End Row -->
             <!-- Footer -->
