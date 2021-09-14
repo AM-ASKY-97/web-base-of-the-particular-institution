@@ -89,7 +89,7 @@ include 'ajax.php';
 
         <!-- Right Area-->
 
-        <div class="col-xl-10 bg-light hei" id="loadArea">
+        <div class="col-xl-10 bg-light" id="loadArea">
        
 
             <!-- Row -->
@@ -131,15 +131,15 @@ include 'ajax.php';
             
         </div>
         <!-- End Right Area -->
-        <!-- Footer -->
+        
+    </div>
+    <!-- Footer -->
     <div class="row text-center">
                 <div class="col-xl bg-primary">
                     <h5>Am. Asky</h5>
                 </div>
             </div>
         <!-- End Footer -->
-    </div>
-
     
 </div>
 

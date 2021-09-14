@@ -12,12 +12,12 @@
 <body>
     
 <div class="row">
-    <div class="col-xl-10 p10">
+    <div class="col p10">
     <div class="card">
     <h5 class="card-header">Featured</h5>
     <div class="card-body">
        
-
+    <div class="table-reponsive">
     <table class="table table-bordered col-xl">
   <thead>
     <tr>
@@ -60,7 +60,7 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 
     </div>
     </div>
