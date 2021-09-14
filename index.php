@@ -95,7 +95,7 @@ include 'ajax.php';
             <!-- Row -->
             <div class="row">
                 <!--student col-->
-                <div class="col-xl-6 p10">
+                <div class="col-lg-6 p10">
                     <!-- student cart--> 
                     <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
@@ -111,7 +111,7 @@ include 'ajax.php';
                 <!--end col-->
             
                 <!--Lacutre col-->
-                <div class="col-xl-6 p10">
+                <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
@@ -127,7 +127,7 @@ include 'ajax.php';
                 <!--end luctre col-->
 
                  <!--1st semi-->
-                    <div class="col-xl-6 p10">
+                    <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
@@ -143,7 +143,7 @@ include 'ajax.php';
                 <!--1st semi col-->
 
                  <!--1st semi-->
-                 <div class="col-xl-6 p10">
+                 <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
                     <div class="card-header">
