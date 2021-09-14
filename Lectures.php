@@ -17,7 +17,7 @@
     <h5 class="card-header">Featured</h5>
     <div class="card-body">
        
-    <div class="table-reponsive">
+    <div class="table-responsive">
     <table class="table table-bordered col-xl">
   <thead>
     <tr>
