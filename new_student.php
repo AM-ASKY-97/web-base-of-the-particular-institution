@@ -11,9 +11,9 @@
 </head>
 <body>
 
-<div class="card">
+<div class="card p10">
   <div class="card-header">
-    Featured
+    <h3 class="mb-5 text-uppercase text-center">Student registration form</h3>
   </div>
   <div class="card-body">
   <section class="">
@@ -32,7 +32,7 @@
             </div>
             <div class="col-xl-6">
               <div class="card-body p-md-5 text-black">
-                <h3 class="mb-5 text-uppercase">Student registration form</h3>
+                
 
                 <div class="row">
                   <div class="col-md-6 mb-4">
@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="form-outline mb-4">
-                  <input type="text" id="form3Example8" class="form-control form-control-lg" />
+                  <input type="text-" id="form3Example8" class="form-control form-control-lg" />
                   <label class="form-label" for="form3Example8">Address</label>
                 </div>
 
@@ -77,7 +77,7 @@
                     <input
                       class="form-check-input"
                       type="radio"
-                      name="inlineRadioOptions"
+                      name="Gender"
                       id="femaleGender"
                       value="option1"
                     />
@@ -88,57 +88,18 @@
                     <input
                       class="form-check-input"
                       type="radio"
-                      name="inlineRadioOptions"
+                      name="Gender"
                       id="maleGender"
                       value="option2"
                     />
                     <label class="form-check-label" for="maleGender">Male</label>
                   </div>
 
-                  <div class="form-check form-check-inline mb-0">
-                    <input
-                      class="form-check-input"
-                      type="radio"
-                      name="inlineRadioOptions"
-                      id="otherGender"
-                      value="option3"
-                    />
-                    <label class="form-check-label" for="otherGender">Other</label>
-                  </div>
-
-                </div>
-
-                <div class="row">
-                  <div class="col-md-6 mb-4">
-
-                    <select class="select">
-                      <option value="1">State</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
-                  <div class="col-md-6 mb-4">
-
-                    <select class="select">
-                      <option value="1">City</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
                 </div>
 
                 <div class="form-outline mb-4">
                   <input type="text" id="form3Example9" class="form-control form-control-lg" />
                   <label class="form-label" for="form3Example9">DOB</label>
-                </div>
-
-                <div class="form-outline mb-4">
-                  <input type="text" id="form3Example90" class="form-control form-control-lg" />
-                  <label class="form-label" for="form3Example90">Pincode</label>
                 </div>
 
                 <div class="form-outline mb-4">
@@ -152,8 +113,8 @@
                 </div>
 
                 <div class="d-flex justify-content-end pt-3">
-                  <button type="button" class="btn btn-light btn-lg">Reset all</button>
-                  <button type="button" class="btn btn-warning btn-lg ms-2">Submit form</button>
+                  <button type="button" class="btn btn-light bg-danger btn-lg">Reset all</button>
+                  <button type="button" class="btn  btn-lg ms-2 bg-success">Submit form</button>
                 </div>
 
               </div>
