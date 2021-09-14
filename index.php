@@ -98,7 +98,7 @@ include 'ajax.php';
                 <div class="col-lg-6 p10">
                     <!-- student cart--> 
                     <div class="card m-auto" style="width: 30rem;">
-                    <div class="card-header">
+                    <div class="card-header fw-bold">
                         Lectures
                     </div>
                     <div class="card-body">
@@ -114,7 +114,7 @@ include 'ajax.php';
                 <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
-                    <div class="card-header">
+                    <div class="card-header fw-bold">
                         Student
                     </div>
                     <div class="card-body">
@@ -130,7 +130,7 @@ include 'ajax.php';
                     <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
-                    <div class="card-header">
+                    <div class="card-header fw-bold">
                         1st semester subject
                     </div>
                     <div class="card-body">
@@ -146,7 +146,7 @@ include 'ajax.php';
                  <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" style="width: 30rem;">
-                    <div class="card-header">
+                    <div class="card-header fw-bold">
                         2nd semester subject
                     </div>
                     <div class="card-body">
