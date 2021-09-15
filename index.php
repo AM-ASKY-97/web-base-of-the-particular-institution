@@ -82,7 +82,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn" onclick="loadfiles('Pass Pepper','loadArea')"><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
+                <button class="btn" onclick="loadfiles('pass_pepper','loadArea')"><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
             </div>
             
         </div>
