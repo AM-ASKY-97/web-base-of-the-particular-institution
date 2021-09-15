@@ -27,7 +27,7 @@ include 'ajax.php';
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-xl-8 bg bg-primary text-white">
-                <div><h3>Hardy College of Technology<span class="element"></span></h3></div>    
+                <div><h3>HARDY COLLGE OF TECHNOLOGY<span class="element"></span></h3></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
             
@@ -48,7 +48,7 @@ include 'ajax.php';
 <div class="container-fulid">
     <div class="row">
         <div class="col bg-secondary text-white">
-            <marquee behavior="" direction="">Online registration System</marquee>
+            <marquee behavior="" direction="">HARDY COLLEGE OF TECHNOLOGY MANAGEMENT SYSTEM - DEPARTMENT OF ICT</marquee>
         </div>
     </div>
 </div>
@@ -98,7 +98,7 @@ include 'ajax.php';
 
             <!-- Row -->
             <div class="row">
-                <div class="col p10">
+                <div class="col pa10">
                 <div class="card">
                 <div class="card">
                 <h3 class="card-header mb-5 text-uppercase bg-info">Dashbord</h3>
@@ -106,7 +106,7 @@ include 'ajax.php';
                                 
                 <div class="row">
                 <!--student col-->
-                <div class="col-lg-6 p10">
+                <div class="col-lg-6 pa10">
                     <!-- student cart--> 
                     <div class="card m-auto">
                     <div class="card-header fw-bold bg-secondary text-white">
@@ -122,7 +122,7 @@ include 'ajax.php';
                 <!--end col-->
             
                 <!--Lacutre col-->
-                <div class="col-lg-6 p10">
+                <div class="col-lg-6 pa10">
                     <!-- student cart-->
                     <div class="card m-auto">
                     <div class="card-header fw-bold bg-secondary text-white">
@@ -138,7 +138,7 @@ include 'ajax.php';
                 <!--end luctre col-->
 
                  <!--1st semi-->
-                    <div class="col-lg-6 p10">
+                    <div class="col-lg-6 pa10">
                     <!-- student cart-->
                     <div class="card m-auto">
                     <div class="card-header fw-bold bg-secondary text-white">
@@ -154,7 +154,7 @@ include 'ajax.php';
                 <!--1st semi col-->
 
                  <!--1st semi-->
-                 <div class="col-lg-6 p10">
+                 <div class="col-lg-6 pa10">
                     <!-- student cart-->
                     <div class="card m-auto" >
                     <div class="card-header fw-bold bg-secondary text-white">
@@ -193,8 +193,9 @@ include 'ajax.php';
 </div>
 <!-- Footer -->
 <div class="row text-center">
-                <div class="col-xl bg-primary text-white">
-                    <h5>&#169 Copyright 2021 HARDY. All right reserved. | Designed By: Hardy College Of Technology Student (Founder : A.M. Asky)</h5>
+                <div class="col-xl bg-primary text-white text-uppercase pa10">
+                    <h6>&#169 Copyright 2021 HARDY. All right reserved. |</h6> 
+                    <p>Designed By: Hardy College Of Technology Student (Founder : A.M. Asky)</p>
                 </div>
             </div>
         <!-- End Footer -->
