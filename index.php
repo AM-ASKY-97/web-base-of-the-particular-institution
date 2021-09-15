@@ -190,7 +190,7 @@ include 'ajax.php';
 <!-- Footer -->
 <div class="row text-center">
                 <div class="col-xl bg-primary text-white">
-                    <h5>Copyright 2021 HARDY. All right reserved. | Designed By: Hardy College Of Technology Student (Founder : A.M. Asky)</h5>
+                    <h5>&#169 Copyright 2021 HARDY. All right reserved. | Designed By: Hardy College Of Technology Student (Founder : A.M. Asky)</h5>
                 </div>
             </div>
         <!-- End Footer -->
