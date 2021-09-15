@@ -29,11 +29,11 @@
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">
                         
-                        1. Web contents development – 1 (HTML) <a href="webprograming/Html (1).pdf" Download>Download</a><br>
-                        2. Web contents development – 2 (HTML) <a href="webprograming/HTML-1 (1).pdf" Download>Download</a><br>
-                        3. CSS - Contents <a href="webprograming/CSS.pdf" Download>Download</a><br>
-                        4. XML for Beginners <a href="webprograming/xml - 3.pdf" Download>Download</a><br>
-                        5. Web contents development - XML <a href="webprograming/XML.pdf" Download>Download</a><br>
+                        1. Web contents development – 1 (HTML) <a href="https://drive.google.com/file/d/1tCjC6Bf9ncvqo5r-kNyLBHyLCkBsmqep/view?usp=sharing" Download>Download</a><br>
+                        2. Web contents development – 2 (HTML) <a href="https://drive.google.com/file/d/1wsfV6-m-hoUHSES3gbMthaHwjHYtf89H/view?usp=sharing" Download>Download</a><br>
+                        3. CSS - Contents <a href="https://drive.google.com/file/d/1bPbRPGa2sDFmOPDsM453m_vYpXWcvFwF/view?usp=sharing" Download>Download</a><br>
+                        4. XML for Beginners <a href="https://drive.google.com/file/d/1tI8FFrVuHrqGr7w4X22bTdc7YY8GX8qs/view?usp=sharing" Download>Download</a><br>
+                        5. Web contents development - XML <a href="https://drive.google.com/file/d/15eYX9OTbK1y6AYOpT-QKoNeMjjDpv1_j/view?usp=sharing" Download>Download</a><br>
                     </li>
                 </ul>
                 </div>
@@ -64,16 +64,20 @@
                     <div class="col-lg-6 p10">
                     <div class="card">
                 <div class="card-header bg-secondary text-white">
-                    Wep Development
+                    Planning and Scheduling working Place (PSW)
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">
                         
-                        1. Web contents development – 1 (HTML) <a href="webprograming/Html (1).pdf" Download>Download</a><br>
-                        2. Web contents development – 2 (HTML) <a href="webprograming/HTML-1 (1).pdf" Download>Download</a><br>
-                        3. CSS - Contents <a href="webprograming/CSS.pdf" Download>Download</a><br>
-                        4. XML for Beginners <a href="webprograming/xml - 3.pdf" Download>Download</a><br>
-                        5. Web contents development - XML <a href="webprograming/XML.pdf" Download>Download</a><br>
+                        1. PSWW-T1 Goals and Objectives of the Organization <a href="https://drive.google.com/file/d/1QCafMcXJmAKNGpppdr5KGNL0TBOVXS5d/view?usp=sharing" Download>Download</a><br>
+                        2. PSWW-T2  Planning Priorities <a href="https://drive.google.com/file/d/1BeNVMlmUTFkrg1eMiMjgEs-1k0tL3H5L/view?usp=sharing" Download>Download</a><br>
+                        3. PSWW-T3 Plan related to work and related activities <a href="https://drive.google.com/file/d/1FSozxr5Vr7GyXGOCROENl_cIVGDfALYX/view?usp=sharing" Download>Download</a><br>
+                        4. PSWW-T4 Systems, Procedures and Process relevant to Organization <a href="https://drive.google.com/file/d/1icTTUb95sXyC9-1xEz6vRDdcttIz_F3W/view?usp=sharing" Download>Download</a><br>
+                        5. PSWW-T5 Quality and Continuous improvement processes applied within the Organization <a href="https://drive.google.com/file/d/1q7QRcKgtatq0USktH7_bZmEnqLOoH1pc/view?usp=sharing" Download>Download</a><br>
+                        6. PSWW-T6 Company Specific Performance Standard <a href="https://drive.google.com/file/d/13QyY7f-EsydzIxymsc1RasjizTsusMX5/view?usp=sharing" Download>Download</a><br>
+                        7. PSWW-T7 IndustryWorkplace Code of PracticeCode of ethics <a href="https://drive.google.com/file/d/1cTjtbw18jpqe3r7XUbZVsJCKJ7iK3tCK/view?usp=sharing" Download>Download</a><br>
+                        8. PSWW-T8 Frontline management roles applicable to team management <a href="https://drive.google.com/file/d/1K4rq2o_2uXKWnewo7wfGpffelsNy0yb9/view?usp=sharing" Download>Download</a><br>
+                        9. PSWW-T9 Manufacturer’s specifications and product specifications<a href="https://drive.google.com/file/d/1HA47D86ir8nXbqp7oPKM32Rc8dVDfl26/view?usp=sharing" Download>Download</a><br>
                     </li>
                 </ul>
                 </div>
