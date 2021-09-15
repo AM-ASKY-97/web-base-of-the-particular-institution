@@ -22,7 +22,7 @@
                 
                 <div class="row">
                     <div class="col-lg-6 p10">
-                    <div class="card" style="width: 20rem;">
+                    <div class="card" >
                 <div class="card-header bg-secondary text-white">
                     Wep Development
                 </div>
@@ -42,7 +42,7 @@
 
 
                     <div class="col-lg-6 p10">
-                    <div class="card" style="width: 20rem;">
+                    <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Local Area Network
                 </div>
@@ -62,7 +62,7 @@
 
 
                     <div class="col-lg-6 p10">
-                    <div class="card" style="width: 20rem;">
+                    <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Wep Development
                 </div>
@@ -82,17 +82,17 @@
 
 
                     <div class="col-lg-6 p10">
-                    <div class="card" style="width: 20rem;">
+                    <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Software Testing
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">
                         
-                        1. Identify Test needs <a href="Softwaretesting/1.Identify Test needs (2).pdf" Download>Download</a><br>
-                        2. Identify Basic Test Process <a href="Softwaretesting/2 Identify Basic Test Process (2).pdf" Download>Download</a><br>
-                        3. Chapter 03 - Testing life cycle <a href="Softwaretesting/Software Testiing - Chapter 03 - Testing life cycle.pdf" Download>Download</a><br>
-                        4. Software Testing Tutorial <a href="Softwaretesting/software_testing_tutorial.pdf" Download>Download</a><br>
+                        1. Identify Test needs <a href="https://drive.google.com/file/d/1KaxFKETpO3wZIM_4lYeuXHVARx31U1Ny/view?usp=sharing" Download>Download</a><br>
+                        2. Identify Basic Test Process <a href="https://drive.google.com/file/d/1T0hy08GK3K-x0Qd97Z8uggxJLW-cX_FX/view?usp=sharing" Download>Download</a><br>
+                        3. Chapter 03 - Testing life cycle <a href="https://drive.google.com/file/d/1Wjo_IklZXjTTw8ZMID34iZX3tdzLl4wH/view?usp=sharing" Download>Download</a><br>
+                        
                     </li>
                 </ul>
                 </div>
@@ -102,7 +102,7 @@
 
 
                     <div class="col-lg-6 p10">
-                    <div class="card" style="width: 20rem;">
+                    <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Database - II
                 </div>
