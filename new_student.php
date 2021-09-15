@@ -14,7 +14,7 @@
 <div class="row">
     <div class="col p10">
     <div class="card">
-    <h3 class="card-header mb-5 text-uppercase bg-info">New Student Form</h3>
+    <h3 class="card-header mb-5 text-uppercase bg-info">Registration form</h3>
     <div class="card-body">
        
   <form action="">

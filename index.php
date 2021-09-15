@@ -82,7 +82,11 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn" onclick="loadfiles('pass_pepper','loadArea')"><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
+                <button class="btn disabled" onclick="loadfiles('pass_pepper','loadArea') "><i class="fas fa-book-reader"></i><span>Pass Pepper</span></button>
+            </div>
+
+            <div>
+                <button class="btn disabled" onclick="loadfiles('model_pepper','loadArea') "><i class="fas fa-book-open"></i><span>Model Pepper</span></button>
             </div>
             
         </div>
@@ -97,7 +101,7 @@ include 'ajax.php';
                 <div class="col p10">
                 <div class="card">
                 <div class="card">
-                <h3 class="card-header mb-5 text-uppercase bg-info">Lectures information</h3>
+                <h3 class="card-header mb-5 text-uppercase bg-info">Dashbord</h3>
                 <div class="card-body">
                                 
                 <div class="row">
@@ -109,7 +113,7 @@ include 'ajax.php';
                         Lectures
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">04</h5>
+                        <h5 class="card-title">03</h5>
                         <p class="card-text">All lectures</p>
                     </div>
                     </div>
@@ -138,7 +142,7 @@ include 'ajax.php';
                     <!-- student cart-->
                     <div class="card m-auto">
                     <div class="card-header fw-bold bg-secondary text-white">
-                        1st semester subject
+                        1<sup>st</sup> semester subject
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">7</h5>
@@ -154,7 +158,7 @@ include 'ajax.php';
                     <!-- student cart-->
                     <div class="card m-auto" >
                     <div class="card-header fw-bold bg-secondary text-white">
-                        2nd semester subject
+                        2<sup>nd</sup> semester subject
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">5</h5>
