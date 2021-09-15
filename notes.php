@@ -23,7 +23,7 @@
                 <div class="row">
                     <div class="col-lg-6 p10">
                     <div class="card" style="width: 27rem;">
-                <div class="card-header">
+                <div class="card-header bg-secondary text-white">
                     Wep Development
                 </div>
                 <ul class="list-group list-group-flush">
@@ -43,7 +43,7 @@
 
                     <div class="col-lg-6 p10">
                     <div class="card" style="width: 27rem;">
-                <div class="card-header">
+                <div class="card-header bg-secondary text-white">
                     Local Area Network
                 </div>
                 <ul class="list-group list-group-flush">
@@ -63,7 +63,7 @@
 
                     <div class="col-lg-6 p10">
                     <div class="card" style="width: 27rem;">
-                <div class="card-header">
+                <div class="card-header bg-secondary text-white">
                     Wep Development
                 </div>
                 <ul class="list-group list-group-flush">
@@ -83,7 +83,7 @@
 
                     <div class="col-lg-6 p10">
                     <div class="card" style="width: 27rem;">
-                <div class="card-header">
+                <div class="card-header bg-secondary text-white">
                     Software Testing
                 </div>
                 <ul class="list-group list-group-flush">
@@ -103,7 +103,7 @@
 
                     <div class="col-lg-6 p10">
                     <div class="card" style="width: 27rem;">
-                <div class="card-header">
+                <div class="card-header bg-secondary text-white">
                     Database - II
                 </div>
                 <ul class="list-group list-group-flush">
