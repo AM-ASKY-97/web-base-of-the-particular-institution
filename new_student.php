@@ -11,15 +11,14 @@
 </head>
 <body>
 
-<div class="card p10">
-  <div class="card-header">
-    <h3 class="mb-5 text-uppercase  d-md-text-center">Student registration form</h3>
-  </div>
-  <div class="card-body">
-  <section class="">
-  <div class="container py-5">
-    <div class="row d-flex justify-content-center align-items-center">
-      <div class="col">
+<div class="row">
+    <div class="col p10">
+    <div class="card">
+    <h3 class="card-header mb-5 text-uppercase bg-info">New Student Form</h3>
+    <div class="card-body">
+       
+  <form action="">
+ 
         <div class="card card-registration my-4">
           <div class="row g-0">
             <div class="col-xl-6 d-none d-xl-block">
@@ -118,9 +117,11 @@
       </div>
     </div>
   </div>
-</section>
-  </div>
-</div>
+  </form> 
+
+    </div>
+ 
+
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

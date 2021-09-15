@@ -14,13 +14,13 @@
 <div class="row">
     <div class="col p10">
     <div class="card">
-    <h3 class="card-header mb-5 text-uppercase ">Lectures information</h3>
+    <h3 class="card-header mb-5 text-uppercase bg-info">Lectures information</h3>
     <div class="card-body">
        
     <div class="table-responsive">
-    <table class="table table-bordered col-xl">
+    <table class="table table-bordered table-dark col-xl">
     <thead>
-    <tr class="text-center">
+    <tr class="text-center bg-primary f-color-white">
       <th scope="col">#</th>
       <th scope="col">Name of the lacture</th>
       <th scope="col">Subject</th>
@@ -53,7 +53,7 @@
       <td rowspan=2>Mr. M.I. Imran Ifham</td>
       <td >Database System- II (DBS II)</td>
       <td rowspan=2 id="con">0771117818</td>
-      <td  rowspan=2 class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td  rowspan=2 class="text-center "><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
       <td>Planning and Scheduling working Place (PSW)</td>

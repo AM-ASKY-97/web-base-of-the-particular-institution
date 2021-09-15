@@ -32,7 +32,7 @@ include 'ajax.php';
             </div>
             
             <div class="col-xl-2 bg bg-primary">
-            <nav class="navbar navbar-expand-lg navbar-light fla">
+            <nav class="navbar navbar-expand-xl navbar-light fla">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -94,11 +94,18 @@ include 'ajax.php';
 
             <!-- Row -->
             <div class="row">
+                <div class="col p10">
+                <div class="card">
+                <div class="card">
+                <h3 class="card-header mb-5 text-uppercase bg-info">Lectures information</h3>
+                <div class="card-body">
+                                
+                <div class="row">
                 <!--student col-->
                 <div class="col-lg-6 p10">
                     <!-- student cart--> 
                     <div class="card m-auto">
-                    <div class="card-header fw-bold">
+                    <div class="card-header fw-bold bg-secondary text-white">
                         Lectures
                     </div>
                     <div class="card-body">
@@ -114,7 +121,7 @@ include 'ajax.php';
                 <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto">
-                    <div class="card-header fw-bold">
+                    <div class="card-header fw-bold bg-secondary text-white">
                         Student
                     </div>
                     <div class="card-body">
@@ -130,7 +137,7 @@ include 'ajax.php';
                     <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto">
-                    <div class="card-header fw-bold">
+                    <div class="card-header fw-bold bg-secondary text-white">
                         1st semester subject
                     </div>
                     <div class="card-body">
@@ -146,7 +153,7 @@ include 'ajax.php';
                  <div class="col-lg-6 p10">
                     <!-- student cart-->
                     <div class="card m-auto" >
-                    <div class="card-header fw-bold">
+                    <div class="card-header fw-bold bg-secondary text-white">
                         2nd semester subject
                     </div>
                     <div class="card-body">
@@ -166,23 +173,29 @@ include 'ajax.php';
         <!-- End Right Area -->
         
     </div>
-    <!-- Footer -->
-    <div class="row text-center">
+
+
+
+
+
+
+                </div>
+                </div>
+                </div>
+            </div>
+    
+        
+    
+</div>
+<!-- Footer -->
+<div class="row text-center">
                 <div class="col-xl bg-primary">
                     <h5>Am. Asky</h5>
                 </div>
             </div>
         <!-- End Footer -->
-    
-</div>
 
-<script>
-    var Typed = new Typed('.element', {
-    Strings:['ICT'],
-    typeSpeed:120,
-    loop:true
-  });
-</script>
+
 
 
     <!--Boostrab Js-->

@@ -12,6 +12,11 @@ body
     border: 1px solid white;
 }
 
+.pt
+{
+    padding-top: -20px;
+}
+
 .p10
 {
     padding: 10px;
