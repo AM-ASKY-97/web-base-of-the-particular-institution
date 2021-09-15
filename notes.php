@@ -18,19 +18,17 @@
         <h3 class="card-header mb-5 text-uppercase ">Notes</h3>
         <div class="card-body">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 p10">
                 <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Web Programming</h2>
                     <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="webprogramming/html(1).pdf" download>1. HTML 1</a>
                     </div>
                     </div>
                 </div>
 
 
-                <div class="col-md-6">
+                <div class="col-md-6 p10">
                      <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Local Area Network</h2>
                     <div class="card-body">
@@ -41,7 +39,7 @@
                     </div>
             </div>
 
-            <div class="col-md-6">
+            <div class="col-md-6 p10">
                      <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Database - II</h2>
                     <div class="card-body">
@@ -49,9 +47,31 @@
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                         <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
+                    </div>         
+        </div>
+
+        <div class="col-md-6 p10">
+                     <div class="card">
+                    <h2 class="card-header mb-5 text-uppercase ">software testing</h2>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
+                    </div>
+        
+                    
         </div>
-        </div>
+
+        <div class="col-md-6 p10">
+                     <div class="card">
+                    <h2 class="card-header mb-5 text-uppercase ">Plan & sdheduling work at</h2>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                    </div>
         </div>
     </div>
 
