@@ -23,6 +23,11 @@ body
     margin: auto;
 }
 
+.pa10
+{
+    padding-top: 10px;
+}
+
 .fla
 {
     float: right;

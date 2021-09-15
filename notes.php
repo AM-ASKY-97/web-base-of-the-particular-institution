@@ -13,7 +13,7 @@
 <body>
     
     <div class="row">
-    <div class="col p10">
+    <div class="col pa10">
                 <div class="card">
                 <div class="card">
                 <h3 class="card-header mb-5 text-uppercase bg-info">Notes</h3>
@@ -21,7 +21,7 @@
 
                 
                 <div class="row">
-                    <div class="col-lg-6 p10">
+                    <div class="col-lg-6 p11">
                     <div class="card" >
                 <div class="card-header bg-secondary text-white">
                     Wep Development
@@ -41,7 +41,7 @@
 
 
 
-                    <div class="col-lg-6 p10">
+                    <div class="col-lg-6 pa10">
                     <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Local Area Network
@@ -60,52 +60,7 @@
                     </div>
 
 
-
-                    <div class="col-lg-6 p10">
-                    <div class="card">
-                <div class="card-header bg-secondary text-white">
-                    Planning and Scheduling working Place (PSW)
-                </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">
-                        
-                        1. PSWW-T1 Goals and Objectives of the Organization <a href="https://drive.google.com/file/d/1QCafMcXJmAKNGpppdr5KGNL0TBOVXS5d/view?usp=sharing" Download>Download</a><br>
-                        2. PSWW-T2  Planning Priorities <a href="https://drive.google.com/file/d/1BeNVMlmUTFkrg1eMiMjgEs-1k0tL3H5L/view?usp=sharing" Download>Download</a><br>
-                        3. PSWW-T3 Plan related to work and related activities <a href="https://drive.google.com/file/d/1FSozxr5Vr7GyXGOCROENl_cIVGDfALYX/view?usp=sharing" Download>Download</a><br>
-                        4. PSWW-T4 Systems, Procedures and Process relevant to Organization <a href="https://drive.google.com/file/d/1icTTUb95sXyC9-1xEz6vRDdcttIz_F3W/view?usp=sharing" Download>Download</a><br>
-                        5. PSWW-T5 Quality and Continuous improvement processes applied within the Organization <a href="https://drive.google.com/file/d/1q7QRcKgtatq0USktH7_bZmEnqLOoH1pc/view?usp=sharing" Download>Download</a><br>
-                        6. PSWW-T6 Company Specific Performance Standard <a href="https://drive.google.com/file/d/13QyY7f-EsydzIxymsc1RasjizTsusMX5/view?usp=sharing" Download>Download</a><br>
-                        7. PSWW-T7 IndustryWorkplace Code of PracticeCode of ethics <a href="https://drive.google.com/file/d/1cTjtbw18jpqe3r7XUbZVsJCKJ7iK3tCK/view?usp=sharing" Download>Download</a><br>
-                        8. PSWW-T8 Frontline management roles applicable to team management <a href="https://drive.google.com/file/d/1K4rq2o_2uXKWnewo7wfGpffelsNy0yb9/view?usp=sharing" Download>Download</a><br>
-                        9. PSWW-T9 Manufacturer’s specifications and product specifications<a href="https://drive.google.com/file/d/1HA47D86ir8nXbqp7oPKM32Rc8dVDfl26/view?usp=sharing" Download>Download</a><br>
-                    </li>
-                </ul>
-                </div>
-                    </div>
-
-
-
-                    <div class="col-lg-6 p10">
-                    <div class="card">
-                <div class="card-header bg-secondary text-white">
-                    Software Testing
-                </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">
-                        
-                        1. Identify Test needs <a href="https://drive.google.com/file/d/1KaxFKETpO3wZIM_4lYeuXHVARx31U1Ny/view?usp=sharing" Download>Download</a><br>
-                        2. Identify Basic Test Process <a href="https://drive.google.com/file/d/1T0hy08GK3K-x0Qd97Z8uggxJLW-cX_FX/view?usp=sharing" Download>Download</a><br>
-                        3. Chapter 03 - Testing life cycle <a href="https://drive.google.com/file/d/1Wjo_IklZXjTTw8ZMID34iZX3tdzLl4wH/view?usp=sharing" Download>Download</a><br>
-                        
-                    </li>
-                </ul>
-                </div>
-                    </div>
-
-
-
-
-                    <div class="col-lg-6 p10">
+                    <div class="col-lg-6 pa10">
                     <div class="card">
                 <div class="card-header bg-secondary text-white">
                     Database - II
@@ -126,6 +81,49 @@
                         5. T2- Practical sheet 10<a href="https://drive.google.com/file/d/1A4xBF1WE3pCUMa-UoFamSRAR8IfKqcz_/view?usp=sharing" Download>Download</a><br>
                         5. T2- Practical sheet 11 <a href="https://drive.google.com/file/d/1Tds6aEOfROgk69JzJCNPusUlcnaChAhX/view?usp=sharing" Download>Download</a><br>
                         5. T2-Data Manipulation with SQL <a href="https://drive.google.com/file/d/1OUOGITYZ39Y3S4nCTR3tleIJWmd8h6sJ/view?usp=sharing" Download>Download</a><br>
+                    </li>
+                </ul>
+                </div>
+                    </div>
+
+
+
+                    <div class="col-lg-6 pa10">
+                    <div class="card">
+                <div class="card-header bg-secondary text-white">
+                    Planning and Scheduling working Place (PSW)
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        
+                        1. PSWW-T1 Goals and Objectives of the Organization <a href="https://drive.google.com/file/d/1QCafMcXJmAKNGpppdr5KGNL0TBOVXS5d/view?usp=sharing" Download>Download</a><br>
+                        2. PSWW-T2  Planning Priorities <a href="https://drive.google.com/file/d/1BeNVMlmUTFkrg1eMiMjgEs-1k0tL3H5L/view?usp=sharing" Download>Download</a><br>
+                        3. PSWW-T3 Plan related to work and related activities <a href="https://drive.google.com/file/d/1FSozxr5Vr7GyXGOCROENl_cIVGDfALYX/view?usp=sharing" Download>Download</a><br>
+                        4. PSWW-T4 Systems, Procedures and Process relevant to Organization <a href="https://drive.google.com/file/d/1icTTUb95sXyC9-1xEz6vRDdcttIz_F3W/view?usp=sharing" Download>Download</a><br>
+                        5. PSWW-T5 Quality and Continuous improvement processes applied within the Organization <a href="https://drive.google.com/file/d/1q7QRcKgtatq0USktH7_bZmEnqLOoH1pc/view?usp=sharing" Download>Download</a><br>
+                        6. PSWW-T6 Company Specific Performance Standard <a href="https://drive.google.com/file/d/13QyY7f-EsydzIxymsc1RasjizTsusMX5/view?usp=sharing" Download>Download</a><br>
+                        7. PSWW-T7 IndustryWorkplace Code of PracticeCode of ethics <a href="https://drive.google.com/file/d/1cTjtbw18jpqe3r7XUbZVsJCKJ7iK3tCK/view?usp=sharing" Download>Download</a><br>
+                        8. PSWW-T8 Frontline management roles applicable to team management <a href="https://drive.google.com/file/d/1K4rq2o_2uXKWnewo7wfGpffelsNy0yb9/view?usp=sharing" Download>Download</a><br>
+                        9. PSWW-T9 Manufacturer’s specifications and product specifications<a href="https://drive.google.com/file/d/1HA47D86ir8nXbqp7oPKM32Rc8dVDfl26/view?usp=sharing" Download>Download</a><br>
+                    </li>
+                </ul>
+                </div>
+                    </div>  
+                    
+                    
+
+                    <div class="col-lg-6 pa10">
+                    <div class="card">
+                <div class="card-header bg-secondary text-white">
+                    Software Testing
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        
+                        1. Identify Test needs <a href="https://drive.google.com/file/d/1KaxFKETpO3wZIM_4lYeuXHVARx31U1Ny/view?usp=sharing" Download>Download</a><br>
+                        2. Identify Basic Test Process <a href="https://drive.google.com/file/d/1T0hy08GK3K-x0Qd97Z8uggxJLW-cX_FX/view?usp=sharing" Download>Download</a><br>
+                        3. Chapter 03 - Testing life cycle <a href="https://drive.google.com/file/d/1Wjo_IklZXjTTw8ZMID34iZX3tdzLl4wH/view?usp=sharing" Download>Download</a><br>
+                        
                     </li>
                 </ul>
                 </div>
