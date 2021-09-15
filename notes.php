@@ -18,7 +18,7 @@
         <h3 class="card-header mb-5 text-uppercase ">Notes</h3>
         <div class="card-body">
             <div class="row">
-                <div class="col-4">
+                <div class="col-md-6">
                 <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Web Programming</h2>
                     <div class="card-body">
@@ -30,7 +30,7 @@
                 </div>
 
 
-                <div class="col-4">
+                <div class="col-md-6">
                      <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Local Area Network</h2>
                     <div class="card-body">
@@ -41,7 +41,7 @@
                     </div>
             </div>
 
-            <div class="col-4">
+            <div class="col-md-6">
                      <div class="card">
                     <h2 class="card-header mb-5 text-uppercase ">Database - II</h2>
                     <div class="card-body">
