@@ -49,7 +49,7 @@ include 'ajax.php';
 <div class="container-fulid">
     <div class="row">
         <div class="col bg-secondary text-white">
-            <marquee behavior="" direction="" scrollamount="5">HARDY COLLEGE OF TECHNOLOGY MANAGEMENT SYSTEM - DEPARTMENT OF <span id="dep"> ICT </span></marquee>
+            <marquee behavior="" direction="" scrollamount="5">HARDY COLLEGE OF TECHNOLOGY STUDENT MANAGEMENT SYSTEM - DEPARTMENT OF  ICT</marquee>
         </div>
     </div>
 </div>
