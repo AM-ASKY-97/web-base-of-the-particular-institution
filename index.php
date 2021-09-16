@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boostrab Web Page</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>HARDY COLLEGE OF TECHNOLOGY - DEPARTMENT OF ICT</title>
 
     <script src="https://kit.fontawesome.com/2759fd8f76.js" crossorigin="anonymous"></script>
     <!--Boostrab Css-->
@@ -26,8 +27,8 @@ include 'ajax.php';
             <div class="col-xl-2 bg bg-primary">
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
-            <div class="col-xl-8 bg bg-primary text-white">
-                <div><h3>HARDY COLLGE OF TECHNOLOGY<span class="element"></span></h3></div>    
+            <div class="col-xl-8 bg bg-primary text-white ">
+                <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element"></span></h3></div>    
                 <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
             </div>
             
@@ -48,7 +49,7 @@ include 'ajax.php';
 <div class="container-fulid">
     <div class="row">
         <div class="col bg-secondary text-white">
-            <marquee behavior="" direction="">HARDY COLLEGE OF TECHNOLOGY MANAGEMENT SYSTEM - DEPARTMENT OF ICT</marquee>
+            <marquee behavior="" direction="" scrollamount="5">HARDY COLLEGE OF TECHNOLOGY MANAGEMENT SYSTEM - DEPARTMENT OF <span id="dep"> ICT </span></marquee>
         </div>
     </div>
 </div>
@@ -200,11 +201,33 @@ include 'ajax.php';
             </div>
         <!-- End Footer -->
 
+        <script>
+            var i=0;
+            function divchange()
+
+            {
+                var divtag = document.getElementById("dep");
+                var txtcolor = ["red" , "green" , "white" , "black"];
+                divtag.style.color=txtcolor[i];
+                i=(i+1)%txtcolor.length;
+            }
+
+            setInterval(divchange,300);
+        </script>
 
 
+           
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+            <script>
+                    var type = new Typed('.element', {
+                    strings: ['DEPARTMENT OF ICT'],
+                    typeSpeed:120,
+                    loop:true
+                    });
+            </script>
 
     <!--Boostrab Js-->
-    <script src="https://cdn.tutorialjinni.com/typed.js/2.0.12/typed.min.js"></script>
+    
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

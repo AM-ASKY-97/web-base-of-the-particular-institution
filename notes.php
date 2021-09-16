@@ -21,7 +21,7 @@
 
                 
                 <div class="row">
-                    <div class="col-lg-6 p11">
+                    <div class="col-lg-6 pa10">
                     <div class="card" >
                 <div class="card-header bg-secondary text-white">
                     Wep Development
