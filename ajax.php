@@ -1,10 +1,11 @@
+
 <script type="text/javascript">
     function loadfiles(fileName, loadArea){
 
         var request=new XMLHttpRequest();
         request.onreadystatechange = function (){
             if (this.readyState == 4 && this.status == 200){
-               document.getElementById(loadArea).innerHTML=this.responseText; 
+               document.getElementById('loadArea').innerHTML=this.responseText; 
             } 
         
         };
@@ -22,9 +23,9 @@
             
         }
 
-        if (fileName ==  "New student")
+        if (fileName ==  "new_student")
         {
-            document.getElementById('h1').innerHTML="New student";
+           
         }
 
         if (fileName ==  "Time Table")
