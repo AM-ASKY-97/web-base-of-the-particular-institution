@@ -34,7 +34,7 @@
       <th scope="row" rowspan=2>1</th>
       <td rowspan=2>Mr. A.J.M. Hasmy</td>
       <td>Web Programming (SW)</td>
-      <td rowspan=2>0760124084</td>
+      <td rowspan=2>000-0000000</td>
       <td  rowspan=2 class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
       <th scope="row">1</th>
       <td>Mr. S. Risath</td>
       <td>Software Testing (ST)</td>
-      <td id="con">0760123222</td>
+      <td id="con">000-0000000</td>
       <td class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
    
@@ -53,7 +53,7 @@
       <th scope="row" rowspan=2>1</th>
       <td rowspan=2>Mr. M.I. Imran Ifham</td>
       <td >Database System- II (DBS II)</td>
-      <td rowspan=2 id="con">0771117818</td>
+      <td rowspan=2 id="con">000-0000000</td>
       <td  rowspan=2 class="text-center "><img src="images 1.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>

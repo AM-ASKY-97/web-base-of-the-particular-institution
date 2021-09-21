@@ -66,6 +66,18 @@ body
     background-color:#151515;
 }
 
+.btn .fal
+{
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 25%;
+    padding-top: 7px;
+    padding-left: 6px;
+    color: #474747;
+    background-color:#151515;
+}
+
 .affix {
     top: 20px;
   }

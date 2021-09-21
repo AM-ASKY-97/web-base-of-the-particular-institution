@@ -84,7 +84,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn" onclick="loadfiles('notes','loadArea')"><i class="fas fa-book"></i><span>Time Table</span></button>
+                <button class="btn" onclick="loadfiles('time_table','loadArea')"><i class="fas fa-table"></i><span>Time Table-2021</span></button>
             </div>
 
             <div>
