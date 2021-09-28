@@ -79,7 +79,7 @@
 
     <tr>
       <th scope="row">12.30 - 01.00</th>
-      <td colspan=7>INTERVAL</td>
+      <td colspan=7 style="text-align:center;">INTERVAL</td>
       
     </tr>
 
