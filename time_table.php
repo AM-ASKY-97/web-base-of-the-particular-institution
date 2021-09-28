@@ -21,7 +21,7 @@
     <div class="table-responsive">
     <table class="table table-bordered table-dark col-xl">
     <thead>
-    <tr>
+    <tr style="text-align:center;">
       <th scope="col">Time</th>
       <th scope="col">Monday</th>
       <th scope="col">Tuesday</th>
