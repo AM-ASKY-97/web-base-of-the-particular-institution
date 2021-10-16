@@ -57,7 +57,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col-xl-2  bg-dark d-xl-block collapse" id="navbarSupportedContent">
+        <div class="col-xl-2  bg-dark d-xl-block collapse sticky-top" id="navbarSupportedContent">
             
             <div class="btn">
                 
