@@ -26,7 +26,7 @@ include 'ajax.php';
         
         <div class="row text-center ">
             <div class="col-xl-2 bg bg-primary">
-                <img src="img.png" alt="" widt="120px" height="120px" class="d-lg-none">
+                <img src="img.png" alt="" widt="120px" height="120px" class="d-xl-none">
                 <nav class="navbar navbar-expand-xl navbar-light fla">
   <button class="navbar-toggler sticky-top" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -58,7 +58,7 @@ include 'ajax.php';
 
 <div class="container-fulid">
     <div class="row">
-        <div class="col-xl-2  bg-dark d-xl-block collapse " id="navbarSupportedContent">
+        <div class="col-xl-2  bg-dark d-xl-block collapse sticky-top" id="navbarSupportedContent">
             
             <div class="btn">
                 
