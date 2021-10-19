@@ -33,7 +33,7 @@ include 'ajax.php';
                 <div class="d-none d-md-block"><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" ></div>       
             </div>
             
-            <div class="col-xl-2 bg bg-primary ">
+            <div class="col-xl-2 bg bg-primary sticky-top">
             <nav class="navbar navbar-expand-xl navbar-light fla">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
