@@ -21,7 +21,7 @@
 include 'ajax.php';
 ?>
 
-<div class="container-fulid">
+<div class="container-fulid sticky-top">
 
         
         <div class="row text-center ">
