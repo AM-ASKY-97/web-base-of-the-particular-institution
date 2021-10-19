@@ -25,7 +25,7 @@ include 'ajax.php';
 
         
         <div class="row text-center ">
-            <div class="col-xl-2 bg bg-primary">
+            <div class="col-xl-2 bg bg-primary d-none d-md-block">
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-xl-8 bg bg-primary text-white ">
