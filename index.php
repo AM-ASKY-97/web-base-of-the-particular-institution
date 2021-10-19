@@ -29,11 +29,11 @@ include 'ajax.php';
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
             <div class="col-xl-8 bg bg-primary text-white ">
-                <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element"></span></h3></div>    
+                <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element">DEPARTMENT OF ICT</span></h3></div>    
                 <div class="d-none d-md-block"><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" ></div>       
             </div>
             
-            <div class="col-xl-2 bg bg-primary">
+            <div class="col-xl-2 bg bg-primary ">
             <nav class="navbar navbar-expand-xl navbar-light fla">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -236,13 +236,14 @@ include 'ajax.php';
 
            
             <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+            <!--
             <script>
                     var type = new Typed('.element', {
                     strings: ['DEPARTMENT OF ICT'],
                     typeSpeed:120,
                     loop:true
                     });
-            </script>
+            </script>-->
 
 <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
