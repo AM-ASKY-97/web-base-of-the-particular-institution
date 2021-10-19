@@ -34,7 +34,7 @@ include 'ajax.php';
             </div>
             
             <div class="col-xl-2 bg bg-primary sticky-top">
-            <nav class="navbar navbar-expand-xl navbar-light fla">
+            <nav class="navbar navbar-expand-xl navbar-light fla sticky-top">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
