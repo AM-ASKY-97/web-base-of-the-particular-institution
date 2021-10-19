@@ -30,7 +30,7 @@ include 'ajax.php';
             </div>
             <div class="col-xl-8 bg bg-primary text-white ">
                 <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element"></span></h3></div>    
-                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px"></div>       
+                <div><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" class="d-none d-md-block"></div>       
             </div>
             
             <div class="col-xl-2 bg bg-primary">
@@ -39,7 +39,7 @@ include 'ajax.php';
     <span class="navbar-toggler-icon"></span>
   </button>
 </nav>
-                 <img src="images 1.png" alt="" widt="120px" height="120px">   
+                 <img src="images 1.png" alt="" widt="120px" height="120px" class="d-none d-md-block">   
             </div>
           
         </div>
