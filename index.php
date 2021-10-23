@@ -79,7 +79,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn" onclick="loadfiles('new_student','loadArea')"><i class="fas fa-user-edit"></i><span>New Student</span></button>
+                <button class="btn" onclick="loadfiles('new_s','loadArea')"><i class="fas fa-user-edit"></i><span>New Student</span></button>
             </div>
 
             <div>
