@@ -99,7 +99,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn disabled"><i class="fas fa-book-open"></i><a href="new_s.php">New</a></button>
+                <button class="btn"><i class="fas fa-book-open"></i><a href="new_s.php">New</a></button>
             </div>
             
         </div>
