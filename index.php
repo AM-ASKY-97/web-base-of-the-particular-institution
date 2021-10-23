@@ -98,9 +98,9 @@ include 'ajax.php';
                 <button class="btn disabled" onclick="loadfiles('model_pepper','loadArea') "><i class="fas fa-book-open"></i><span>Model Pepper</span></button>
             </div>
 
-            <div>
+            <!--<div>
                 <button class="btn"><i class="fas fa-book-open"></i><a href="new_s.php">New</a></button>
-            </div>
+            </div>-->
             
         </div>
 
