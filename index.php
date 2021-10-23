@@ -79,7 +79,7 @@ include 'ajax.php';
             </div>
 
             <div>
-                <button class="btn" onclick="loadfiles('new_s','loadArea')"><i class="fas fa-user-edit"></i><span>New Student</span></button>
+                <button class="btn" onclick="loadfiles('new_student','loadArea')"><i class="fas fa-user-edit"></i><span>New Student</span></button>
             </div>
 
             <div>
@@ -96,6 +96,10 @@ include 'ajax.php';
 
             <div>
                 <button class="btn disabled" onclick="loadfiles('model_pepper','loadArea') "><i class="fas fa-book-open"></i><span>Model Pepper</span></button>
+            </div>
+
+            <div>
+                <button class="btn disabled"><i class="fas fa-book-open"></i><a href="new_s.php">New</a></button>
             </div>
             
         </div>
