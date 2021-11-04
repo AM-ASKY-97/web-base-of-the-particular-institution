@@ -249,7 +249,7 @@ include 'ajax.php';
             $(document).ready(function(){
                 $(".counter").counterUp({
                     delay:10,
-                    time:100
+                    time:200
                 });
             });
         </script>
