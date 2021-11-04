@@ -14,6 +14,10 @@
 
     <!--Css Link-->
     <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
 </head>
 <body>
 
@@ -129,7 +133,7 @@ include 'ajax.php';
                         Lectures
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">03</h5>
+                        <h5 class="card-title counter">03</h5>
                         <p class="card-text">All lectures</p>
                     </div>
                     </div>
@@ -145,7 +149,7 @@ include 'ajax.php';
                         Student
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">30</h5>
+                        <h5 class="card-title counter">30</h5>
                         <p class="card-text">All student</p>
                     </div>
                     </div>
@@ -161,7 +165,7 @@ include 'ajax.php';
                         1<sup>st</sup> semester subject
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">7</h5>
+                        <h5 class="card-title counter">7</h5>
                         <p class="card-text">All subject</p>
                     </div>
                     </div>
@@ -177,7 +181,7 @@ include 'ajax.php';
                         2<sup>nd</sup> semester subject
                     </div>
                     <div class="card-body">
-                        <h5 zzclass="card-title">5</h5>
+                        <h5 class="card-title counter">6</h5>
                         <p class="card-text">All subject</p>
                     </div>
                     </div>
@@ -216,7 +220,7 @@ include 'ajax.php';
             </div>
         <!-- End Footer -->
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
 
         <script>
                 $(document).ready(function(){
@@ -241,6 +245,15 @@ include 'ajax.php';
         </script>
 
 
+        <script>
+            $(document).ready(function(){
+                $(".counter").counterUp({
+                    delay:10,
+                    time:1200
+                });
+            });
+        </script>
+
            
             <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
             <!--
@@ -253,7 +266,7 @@ include 'ajax.php';
             </script>-->
 
 <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>       
 </body>
