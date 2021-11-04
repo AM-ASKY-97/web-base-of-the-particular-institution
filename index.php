@@ -21,20 +21,23 @@
 include 'ajax.php';
 ?>
 
-<div class="container-fulid sticky-top">
+<div class="container-fulid ">
 
         
         <div class="row text-center ">
             <div class="col-xl-2 bg bg-primary d-none d-md-block">
                 <img src="img.png" alt="" widt="120px" height="120px">
             </div>
+            <div class="col-xl-2 bg bg-primary d-block d-md-none">
+                <img src="images 1.png" alt="" widt="120px" height="120px" >
+            </div>
             <div class="col-xl-8 bg bg-primary text-white ">
                 <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element">DEPARTMENT OF ICT</span></h3></div>    
                 <div class="d-none d-md-block"><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" ></div>       
             </div>
             
-            <div class="col-xl-2 bg bg-primary sticky-top">
-            <nav class="navbar navbar-expand-xl navbar-light fla sticky-top">
+            <div class="col-xl-2 bg bg-primary ">
+            <nav class="navbar navbar-expand-xl navbar-light fla ">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

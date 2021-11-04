@@ -3,6 +3,11 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>database</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+
 </head>
 <body>
   <form method="post" autocomplete="off" name="google-sheet">
@@ -27,6 +32,9 @@
          </table>
          <br><br>
          <input type="submit" name="submit" value="Submit"/>
+
+         <div class="counter">726</div>
+ 
     </center>
   </form>
 
@@ -43,5 +51,14 @@
                 .catch(error => console.error('Error!', error.message))
             })
   </script>
+
+<script>
+        $(document).ready(function(){
+            $(".counter").counterUp({
+                delay:10,
+                time:1200
+            });
+        });
+    </script>
 </body>
 </html>
