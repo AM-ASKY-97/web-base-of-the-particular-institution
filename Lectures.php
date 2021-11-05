@@ -19,9 +19,9 @@
     <div class="card-body">
        
     <div class="table-responsive">
-    <table class="table table-bordered table-dark col-xl">
+    <table class="table table-bordered col-xl">
     <thead>
-    <tr class="text-center bg-primary f-color-white">
+    <tr class="text-center bg-success text-white">
       <th scope="col">#</th>
       <th scope="col">Name of the lacture</th>
       <th scope="col">Subject</th>
@@ -29,13 +29,13 @@
       <th scope="col">Photo</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="table-dark">
     <tr>
       <th scope="row" rowspan=2>1</th>
       <td rowspan=2>Mr. A.J.M. Hasmy</td>
       <td>Web Programming (SW)</td>
       <td rowspan=2>000-0000000</td>
-      <td  rowspan=2 class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td  rowspan=2 class="text-center"><img src="user.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
       <td>Local Area Network (LAN)</td>
@@ -46,7 +46,7 @@
       <td>Mr. S. Risath</td>
       <td>Software Testing (ST)</td>
       <td id="con">000-0000000</td>
-      <td class="text-center"><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td class="text-center"><img src="user.png" alt="" width="80px" height="80px"></td>
     </tr>
    
     <tr>
@@ -54,7 +54,7 @@
       <td rowspan=2>Mr. M.I. Imran Ifham</td>
       <td >Database System- II (DBS II)</td>
       <td rowspan=2 id="con">000-0000000</td>
-      <td  rowspan=2 class="text-center "><img src="images 1.png" alt="" width="80px" height="80px"></td>
+      <td  rowspan=2 class="text-center "><img src="user.png" alt="" width="80px" height="80px"></td>
     </tr>
     <tr>
       <td>Planning and Scheduling working Place (PSW)</td>

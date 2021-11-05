@@ -19,9 +19,9 @@
     <div class="card-body">
        
     <div class="table-responsive">
-    <table class="table table-bordered table-dark col-xl">
+    <table class="table table-bordered  col-xl">
     <thead>
-    <tr style="text-align:center;">
+    <tr style="text-align:center;" class="text-center bg-success text-white">
       <th scope="col">Time</th>
       <th scope="col">Monday</th>
       <th scope="col">Tuesday</th>
@@ -32,7 +32,7 @@
       <th scope="col">Sunday</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="table-dark">
     <tr>
       <th scope="row">08.30-09.30</th>
       <td>DBS II - MIII</td>
