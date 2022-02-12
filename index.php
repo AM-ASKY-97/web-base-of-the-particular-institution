@@ -36,7 +36,7 @@ include 'ajax.php';
                 <img src="images 1.png" alt="" widt="120px" height="120px" >
             </div>
             <div class="col-lg-8 bg bg-primary text-white ">
-                <div><h3>HARDY COLLGE OF TECHNOLOGY - <span class="element"></span></h3></div>    
+                <div><h3>HARDY COLLEGE OF TECHNOLOGY - DEPARTMENT OF ICT</h3></div>    
                 <div class="d-none d-md-block"><img src="Sri-Lanka_240-animated-flag-gifs.gif" alt="" width="60px" height="60px" ></div>       
             </div>
             
