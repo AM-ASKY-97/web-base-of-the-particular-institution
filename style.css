@@ -7,6 +7,13 @@ body
     background-color: #6a46bc;
 }
 
+a
+{
+    text-decoration: none;
+    cursor: pointer;
+    color:#363940;
+}
+
 .bg
 {
     border: 1px solid white;
