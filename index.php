@@ -213,7 +213,7 @@ include 'ajax.php';
 </div>
 <!-- Footer -->
 <div class="row text-center">
-                <div class="col-xl bg-black text-white text-uppercase pa10">
+                <div class="col-xl bg-black text-white pa10">
                     <h6>&#169 Copyright 2021 HARDY. All right reserved. |</h6> 
                     <p>Designed By: Hardy College Of Technology Student | Founder :<a href="https://am-asky-resume.herokuapp.com/"> A.M. Asky</a></p>
                 </div>
