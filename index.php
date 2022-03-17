@@ -209,7 +209,7 @@ include 'ajax.php';
 <div class="row text-center">
                 <div class="col-xl bg-black text-white pa10">
                     <h6>&#169 Copyright 2021 HARDY. All right reserved. |</h6> 
-                    <p>Designed By: Hardy College Of Technology Student | Founder :<a href="https://am-asky-resume.herokuapp.com/" class="a"> A.M. Asky</a></p>
+                    <p class="a">Designed By: Hardy College Of Technology Student | Founder :<a href="https://am-asky-resume.herokuapp.com/" > A.M. Asky</a></p>
                 </div>
             </div>
         <!-- End Footer -->
