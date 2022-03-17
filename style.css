@@ -7,11 +7,11 @@ body
     background-color: #6a46bc;
 }
 
-a
+.a
 {
     text-decoration: none;
     cursor: pointer;
-    color:#363940;
+    color: white;
 }
 
 .bg
