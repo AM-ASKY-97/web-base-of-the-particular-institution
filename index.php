@@ -219,12 +219,15 @@ include 'ajax.php';
         <script>
                 $(document).ready(function(){
                     $("#view").click(function(){
-            
                         Swal.fire({
-                                    icon: 'error',
-                                    title: 'Oops...',
-                                    text: 'This can not be viewed because it is a personal information !',
-                                    })
+                            title: 'This can not be viewed because it is a personal information !',
+                            showClass: {
+                                popup: 'animate__animated animate__fadeInDown'
+                            },
+                            hideClass: {
+                                popup: 'animate__animated animate__fadeOutUp'
+                            }
+                        })
                     });
                 });
         </script>
