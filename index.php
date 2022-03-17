@@ -197,12 +197,6 @@ include 'ajax.php';
         <!-- End Right Area -->
         
     </div>
-
-
-
-
-
-
                 </div>
                 </div>
                 </div>
@@ -225,7 +219,12 @@ include 'ajax.php';
         <script>
                 $(document).ready(function(){
                     $("#view").click(function(){
-                        Swal.fire('This can not be viewed because it is a personal information !')
+            
+                        Swal.fire({
+                                    icon: 'error',
+                                    title: 'Oops...',
+                                    text: 'This can not be viewed because it is a personal information !',
+                                    })
                     });
                 });
         </script>
