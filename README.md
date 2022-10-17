@@ -26,8 +26,6 @@ https://hardy-ict.herokuapp.com/ </p>
 <h3>Class Timetables</h3>
 <img src="https://user-images.githubusercontent.com/89337309/196199718-b69dd9f1-e06d-4cb5-b546-b81f94710140.png">
 
-<h3>Mobile Responsive</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196251502-a732df14-9a92-452d-86cd-ddad19aed497.png">
 
 <h3>Thank You</h3>
 
