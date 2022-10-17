@@ -12,7 +12,7 @@ https://hardy-ict.herokuapp.com/ </p>
 <h2 align="center">Screenshot of UI</h2>
 
 <h3>Dashbord</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196198749-80e0192f-a84c-4f99-9c52-014813a99947.PNG">
+<img src="https://user-images.githubusercontent.com/89337309/196250539-f9f10b25-4a2b-45ad-ab0b-82c4bbd7d457.png">
 
 <h3>Lectures Information</h3>
 <img src="https://user-images.githubusercontent.com/89337309/196200436-2255dd8f-4d99-4c9f-bb7d-4e96e01584c6.png">
@@ -26,6 +26,6 @@ https://hardy-ict.herokuapp.com/ </p>
 <h3>Class timetables</h3>
 <img src="https://user-images.githubusercontent.com/89337309/196199718-b69dd9f1-e06d-4cb5-b546-b81f94710140.png">
 
-<p>Thank You</p>
+<h3>Thank You</h3>
 
 <h6 align="center">Credits to Asky AM</h6>
