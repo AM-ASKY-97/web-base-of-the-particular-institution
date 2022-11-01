@@ -24,7 +24,7 @@ https://hardy-ict.herokuapp.com/ </p>
 <img src="https://user-images.githubusercontent.com/89337309/199312421-46dd9ee8-ea63-4958-9390-d8e1eee1cb66.png">
 
 <h3>Class Timetables</h3>
-<img src="https://user-images.githubusercontent.com/89337309/199312876-897d8c89-047f-4fd8-a865-f86b9dcaa035.png">
+<img src="https://user-images.githubusercontent.com/89337309/199313872-cfd57b4a-3d69-4dc5-be23-81ae2d398b7c.png">
 
 
 <h3>Thank You</h3>
