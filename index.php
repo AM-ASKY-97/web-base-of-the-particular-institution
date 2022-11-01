@@ -213,9 +213,8 @@
         </div>
         <!-- Footer -->
         <div class="row text-center">
-            <div class="col-xl bg-black text-white pa10">
-                <h6>&#169 Copyright 2021 Hardy. All Rights Reserved</h6>
-                <p>| Designed By :<a href="http://am-asky97.herokuapp.com/" class="a"> Asky AM</a></p>
+            <div class="col-xl bg-black text-white p-4">
+                <h6>&#169 Copyright 2021 Hardy. All Rights Reserved | Designed By :<a href="http://am-asky97.herokuapp.com/" class="a"> Asky AM</a></h6>
             </div>
         </div>
         <!-- End Footer -->
