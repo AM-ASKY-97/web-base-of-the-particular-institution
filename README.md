@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<p align="justify">This app is used for a particular institution. The facilities of this application, User registration, login and user can download course materials from this app. Also students can view past papers, model papers, class timetables, and lecture information.</p>
+<p align="justify">This app is used by a particular institution. The facilities of this application include user registration, login, and the ability to download course materials from this app. Also, students can view past papers, model papers, class timetables, and lecture information.</p>
 
 <p>Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
 
