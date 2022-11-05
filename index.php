@@ -225,7 +225,7 @@
             $(document).ready(function() {
                 $("#view").click(function() {
                     Swal.fire({
-                        title: 'This can not be viewed because it is a personal information !',
+                        title: 'This cannot be viewed because it is personal information!',
                         showClass: {
                             popup: 'animate__animated animate__fadeInDown'
                         },
