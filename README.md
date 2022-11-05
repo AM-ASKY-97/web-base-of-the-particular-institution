@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<p align="justify">This app is used for a particular institution. The facilities of this application, User registration, login and user can download course materials from this app. Also students can view past papers, model papers, class timetables, and lecture information.</p>
+<p align="justify">This app is used by a particular institution. The facilities of this application include user registration, login, and the ability to download course materials from this app. Also, students can view past papers, model papers, class timetables, and lecture information.</p>
 
 <p>Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
 
@@ -12,19 +12,19 @@ https://hardy-ict.herokuapp.com/ </p>
 <h2 align="center">Screenshot of UI</h2>
 
 <h3>Dashbord</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196250539-f9f10b25-4a2b-45ad-ab0b-82c4bbd7d457.png">
+<img src="https://user-images.githubusercontent.com/89337309/199310837-9b9894a4-ceb2-4be5-9c4d-c275ed08e4d2.png">
 
 <h3>Lectures Information</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196200436-2255dd8f-4d99-4c9f-bb7d-4e96e01584c6.png">
+<img src="https://user-images.githubusercontent.com/89337309/199311593-a5e6a36d-235d-427b-89cc-4cff47abd2e1.png">
 
 <h3>Registration form</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196199154-7f5b1786-c165-4774-98fc-25d5604cc4cd.png">
+<img src="https://user-images.githubusercontent.com/89337309/199311905-95e24ebb-89cd-4f8c-b616-16354c8061db.png">
 
 <h3>Course material</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196199496-7f097844-c8b6-46b5-b4a6-67fbe00fdbe6.png">
+<img src="https://user-images.githubusercontent.com/89337309/199312421-46dd9ee8-ea63-4958-9390-d8e1eee1cb66.png">
 
 <h3>Class Timetables</h3>
-<img src="https://user-images.githubusercontent.com/89337309/196199718-b69dd9f1-e06d-4cb5-b546-b81f94710140.png">
+<img src="https://user-images.githubusercontent.com/89337309/199313872-cfd57b4a-3d69-4dc5-be23-81ae2d398b7c.png">
 
 
 <h3>Thank You</h3>
